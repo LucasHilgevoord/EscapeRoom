@@ -1,0 +1,1213 @@
+﻿Log file open, 12/11/18 11:12:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.319250
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.187s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.11-10.12.05:361][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.11-10.12.05:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:362][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.11-10.12.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.11-10.12.05:366][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.11-10.12.05:366][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-10.12.05:366][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.11-10.12.05:432][  0]LogHAL: Display: Platform has ~ 8 GB [8429789184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.11-10.12.05:432][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.11-10.12.05:432][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.11-10.12.05:432][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:432][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.11-10.12.05:433][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.11-10.12.05:434][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.11-10.12.05:434][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.11-10.12.05:434][  0]LogInit: Computer: DESKTOP-8AMLK8E
+[2018.12.11-10.12.05:434][  0]LogInit: User: FloydLehman
+[2018.12.11-10.12.05:434][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.11-10.12.05:434][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2018.12.11-10.12.05:435][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.11-10.12.05:435][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.11-10.12.05:435][  0]LogMemory: Process Physical Memory: 102.05 MB used, 102.05 MB peak
+[2018.12.11-10.12.05:435][  0]LogMemory: Process Virtual Memory: 91.17 MB used, 91.17 MB peak
+[2018.12.11-10.12.05:435][  0]LogMemory: Physical Memory: 5370.68 MB used,  2668.60 MB free, 8039.27 MB total
+[2018.12.11-10.12.05:435][  0]LogMemory: Virtual Memory: 4652.69 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2018.12.11-10.12.05:867][  0]LogInit: Using OS detected language (nl-NL).
+[2018.12.11-10.12.05:867][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.11-10.12.05:869][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.12.11-10.12.06:296][  0]LogStreaming: Display: Took  0.429s to InitEngineTextLocalization.
+[2018.12.11-10.12.06:296][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.11-10.12.06:324][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.11-10.12.06:325][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.11-10.12.06:645][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.11-10.12.06:645][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.11-10.12.06:712][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.12.11-10.12.06:712][  0]LogD3D11RHI:       2987/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.11-10.12.06:727][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.11-10.12.06:727][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.11-10.12.06:730][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.11-10.12.06:730][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.11-10.12.06:730][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.11-10.12.06:762][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.11-10.12.06:762][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.11-10.12.06:762][  0]LogWindows: EnumDisplayDevices:
+[2018.12.11-10.12.06:762][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.11-10.12.06:763][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-10.12.06:763][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-10.12.06:763][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.11-10.12.06:763][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.11-10.12.06:764][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.11-10.12.06:764][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.11-10.12.06:764][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.11-10.12.06:764][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.12.11-10.12.06:764][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2018.12.11-10.12.06:764][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2018.12.11-10.12.06:764][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2018.12.11-10.12.06:823][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.11-10.12.06:841][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.11-10.12.07:256][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.11-10.12.07:270][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.11-10.12.07:282][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.11-10.12.07:297][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.11-10.12.07:311][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.11-10.12.07:325][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.11-10.12.07:340][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.11-10.12.07:357][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.11-10.12.07:364][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-10.12.07:451][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.11-10.12.07:516][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-10.12.07:516][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-10.12.07:539][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-10.12.07:539][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-10.12.07:551][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.11-10.12.07:564][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.11-10.12.07:577][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.11-10.12.07:591][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.11-10.12.07:639][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.11-10.12.07:639][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.11-10.12.07:639][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.11-10.12.07:714][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (D:/EscapeRoom/Project/Intermediate/Shaders/WorkingDirectory/11568/).
+[2018.12.11-10.12.07:714][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Floyd Lehman/AppData/Local/Temp/UnrealShaderWorkingDir/CCD707A1468F8BC6B1C805AE894F31B6/'.
+[2018.12.11-10.12.07:717][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.11-10.12.07:717][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.11-10.12.07:717][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.11-10.12.08:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.11-10.12.08:398][  0]LogDerivedDataCache: Loaded boot cache 0.08s 85MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.11-10.12.08:398][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.11-10.12.08:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/EscapeRoom/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.11-10.12.08:399][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.11-10.12.08:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/EscapeRoom/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.11-10.12.08:399][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.11-10.12.08:413][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.11-10.12.08:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.11-10.12.08:413][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.11-10.12.08:426][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.11-10.12.08:426][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.11-10.12.08:426][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.11-10.12.08:453][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.11-10.12.08:454][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.11-10.12.08:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.11-10.12.08:564][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2018.12.11-10.12.08:891][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-10.12.08:986][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.11-10.12.08:991][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.11-10.12.08:991][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.11-10.12.08:991][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.11-10.12.08:991][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.11-10.12.09:094][  0]LogNetVersion: Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1228489884)
+[2018.12.11-10.12.09:677][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.100615 seconds
+[2018.12.11-10.12.09:683][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.11-10.12.09:683][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.11-10.12.09:683][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.11-10.12.10:760][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.11-10.12.10:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.11-10.12.11:645][  0]SourceControl: Source control is disabled
+[2018.12.11-10.12.11:645][  0]SourceControl: Source control is disabled
+[2018.12.11-10.12.11:646][  0]SourceControl: Source control is disabled
+[2018.12.11-10.12.11:648][  0]SourceControl: Source control is disabled
+[2018.12.11-10.12.11:824][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.11-10.12.11:960][  0]LogOcInput: OculusInput pre-init called
+[2018.12.11-10.12.12:107][  0]LogEngine: Initializing Engine...
+[2018.12.11-10.12.12:137][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.11-10.12.12:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-10.12.12:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-10.12.12:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-10.12.12:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-10.12.12:406][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.11-10.12.12:425][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.11-10.12.12:474][  0]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.12.12:509][  0]LogInit: FAudioDevice initialized.
+[2018.12.11-10.12.12:509][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.11-10.12.12:606][  0]LogDerivedDataCache: Saved boot cache 0.10s 85MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.11-10.12.12:619][  0]LogInit: Texture streaming: Enabled
+[2018.12.11-10.12.12:650][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.11-10.12.12:671][  0]LogInit: Transaction tracking system initialized
+[2018.12.11-10.12.12:702][  0]BlueprintLog: New page: Editor Load
+[2018.12.11-10.12.12:810][  0]LocalizationService: Localization service is disabled
+[2018.12.11-10.12.13:885][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/' took 0.02s
+[2018.12.11-10.12.13:885][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.11-10.12.13:885][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.11-10.12.13:885][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.11-10.12.13:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-10.12.13:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-10.12.13:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-10.12.13:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-10.12.14:036][  0]SourceControl: Source control is disabled
+[2018.12.11-10.12.14:133][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-10.12.14:135][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.11-10.12.24:789][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.11-10.12.24:789][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-10.12.24:793][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-10.12.26:227][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.12.11-10.12.26:228][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-10.12.26:231][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-10.12.26:308][  0]Cmd: MAP LOAD FILE="D:/EscapeRoom/Project/Content/Map/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-10.12.26:325][  0]LightingResults: New page: Lighting Build
+[2018.12.11-10.12.26:329][  0]MapCheck: New page: Map Check
+[2018.12.11-10.12.26:329][  0]LightingResults: New page: Lighting Build
+[2018.12.11-10.12.26:987][  0]LogLinker: Warning: Can't find file '/Game/Map/GameMap_BuiltData'
+[2018.12.11-10.12.26:987][  0]LogLinker: Warning: Can't find file for asset '/Game/Map/GameMap_BuiltData' while loading D:/EscapeRoom/Project/Content/Map/GameMap.umap.
+[2018.12.11-10.12.26:987][  0]LoadErrors: Error: /Game/Map/GameMap : Can't find file for asset. /Game/Map/GameMap_BuiltData
+[2018.12.11-10.12.27:008][  0]LogLinker: Warning: Can't find file '/Game/Map/GameMap_BuiltData'
+[2018.12.11-10.12.27:008][  0]LogLinker: Warning: Can't find file for asset '/Game/Map/GameMap_BuiltData' while loading D:/EscapeRoom/Project/Content/Map/GameMap.umap.
+[2018.12.11-10.12.27:008][  0]LoadErrors: Error: /Game/Map/GameMap : Can't find file for asset. /Game/Map/GameMap_BuiltData
+[2018.12.11-10.12.27:010][  0]LogLinker: Warning: Can't find file '/Game/Map/GameMap_BuiltData'
+[2018.12.11-10.12.27:010][  0]LogLinker: Warning: Can't find file for asset '/Game/Map/GameMap_BuiltData' while loading NULL.
+[2018.12.11-10.12.27:010][  0]LogLinker: Warning: Can't find file '/Game/Map/GameMap_BuiltData'
+[2018.12.11-10.12.27:010][  0]LogLinker: Warning: Can't find file for asset '/Game/Map/GameMap_BuiltData' while loading NULL.
+[2018.12.11-10.12.27:034][  0]LogLinker: Warning: Can't find file '/Game/Map/GameMap_BuiltData'
+[2018.12.11-10.12.27:034][  0]LoadErrors: Failed to load /Game/Map/GameMap_BuiltData.GameMap_BuiltData Referenced by PersistentLevel
+[2018.12.11-10.12.27:034][  0]LogLinker: Warning: Can't find file for asset '/Game/Map/GameMap_BuiltData' while loading NULL.
+[2018.12.11-10.12.27:034][  0]LoadErrors: Failed to load /Game/Map/GameMap_BuiltData.GameMap_BuiltData Referenced by PersistentLevel
+[2018.12.11-10.12.27:371][  0]LogAIModule: Creating AISystem for world GameMap
+[2018.12.11-10.12.27:386][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-10.12.27:420][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-10.12.27:421][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2018.12.11-10.12.27:421][  0]LogFileHelpers: Loading map 'GameMap' took 1.113
+[2018.12.11-10.12.27:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.12.27:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.12.27:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.12.27:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.12.27:628][  0]LogCollectionManager: Loaded 0 collections in 0.075227 seconds
+[2018.12.11-10.12.27:677][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Saved/Collections/' took 0.01s
+[2018.12.11-10.12.27:677][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/Developers/FloydLehman/Collections/' took 0.01s
+[2018.12.11-10.12.27:677][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/Collections/' took 0.00s
+[2018.12.11-10.12.27:677][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.11-10.12.27:689][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2651 classes and 620 folders.
+[2018.12.11-10.12.27:706][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.11-10.12.27:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.27:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-10.12.28:246][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.11-10.12.28:267][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.11-10.12.28:328][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.11-10.12.28:346][  0]LogSlate: Took 0.008054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.11-10.12.28:479][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2018.12.11-10.12.28:641][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.11-10.12.28:641][  0]LogLoad: (Engine Initialization) Total time: 26.48 seconds
+[2018.12.11-10.12.28:641][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.11-10.12.28:729][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.11-10.12.28:732][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.12.28:958][  3]LogAssetRegistry: Asset discovery search completed in 20.4166 seconds
+[2018.12.11-10.12.28:960][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.11-10.12.28:960][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.12.11-10.12.36:458][452]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.12.36:462][452]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.12.42:159][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.12.42:308][802]LogSlate: Took 0.005799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-10.12.44:717][940]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-10.12.44:876][940]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.12.44:900][940]LogAssetEditorManager: Opening Asset editor for World /Game/Map/Testmap.Testmap
+[2018.12.11-10.12.44:925][940]Cmd: MAP LOAD FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-10.12.44:926][940]LightingResults: New page: Lighting Build
+[2018.12.11-10.12.44:926][940]LoadErrors: New page: Loading map: Testmap.umap
+[2018.12.11-10.12.44:927][940]MapCheck: New page: Map Check
+[2018.12.11-10.12.44:927][940]LightingResults: New page: Lighting Build
+[2018.12.11-10.12.44:977][940]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-10.12.45:023][940]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-10.12.45:023][940]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2018.12.11-10.12.45:023][940]LogFileHelpers: Loading map 'Testmap' took 0.099
+[2018.12.11-10.12.49:583][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.12.54:253][468]LogActorFactory: Actor Factory created SM_Door
+[2018.12.11-10.12.55:165][521]LogActorFactory: Actor Factory created SM_Door
+[2018.12.11-10.12.56:359][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.12.56:606][588]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.12.11-10.13.00:538][823]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.12.11-10.13.01:662][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.11-10.13.05:704][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.11-10.13.08:540][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.13.08:610][295]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.SM_Door_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.13.08:612][295]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.SM_Door_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.13.09:516][346]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.SM_Door_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.13.09:516][346]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.SM_Door_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.13.14:799][660]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2018.12.11-10.13.17:428][741]LogRenderer: Reallocating scene render targets to support 1144x708 Format 26 NumSamples 1 (Frame:79).
+[2018.12.11-10.13.17:428][741]LogSlate: Took 0.008012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.11-10.13.32:857][527]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.SM_Door_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.13.35:419][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2018.12.11-10.13.35:524][662]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_Door3728CD734693407FB3E2258092D1FBC6.tmp' to 'D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset'
+[2018.12.11-10.13.38:639][835]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.13.38:643][835]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.16.52:579][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.11-10.16.55:909][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.12.11-10.16.58:717][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.17.00:647][ 49]LogSlate: Window 'Select Path' being destroyed
+[2018.12.11-10.17.13:135][795]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.11-10.17.13:154][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.17.27:356][645]LogSlate: Window 'Select Path' being destroyed
+[2018.12.11-10.17.27:406][645]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.27:431][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.17.27:438][645]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.17.28:147][645]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2018.12.11-10.17.29:117][645]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.29:122][645]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.29:203][645]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.32:724][837]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_1.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.37:596][109]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: request failed, libcurl error: 52 (Server returned nothing (no headers, no data))
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 1 (Closing connection 1)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 3 (  Trying 54.88.149.93...)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 4 (TCP_NODELAY set)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (54.88.149.93) port 443 (#2))
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 8 (SSL re-using session ID)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 9 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.12.11-10.17.44:832][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 15 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 16 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 17 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 19 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 20 (ALPN, server accepted to use http/1.1)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 21 (old SSL session ID is stale, removing)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 22 (Server certificate:)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 23 ( subject: CN=*.ol.epicgames.com)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 24 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 25 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 26 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 27 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 28 ( SSL certificate verify ok.)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 29 (upload completely sent off: 756 out of 756 bytes)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 30 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 31 (Empty reply from server)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: 0000020942679580: libcurl info message cache 32 (Connection #2 to host datarouter.ol.epicgames.com left intact)
+[2018.12.11-10.17.44:833][508]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF417BD8-4EEA-187C-6397-D1AE79D69F18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=c453fd8c499bca5c571d129ce9ba6815%7Cc72c935e8dc54d40b5115b61423601ab%7C6ab2e166-4fde-43fb-a1ef-1c2a3f0a9087&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.11-10.17.53:301][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.18.01:145][441]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.01:145][441]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.01:146][441]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.01:146][441]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.01:194][441]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:703][382]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:704][382]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:704][382]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:704][382]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:715][382]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.18:788][387]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.22:853][617]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:688][718]BlueprintLog: New page: Compile Door
+[2018.12.11-10.18.24:700][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:716][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:718][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:719][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:912][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:912][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:913][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:913][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:916][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:917][718]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:917][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:917][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.24:967][718]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.27:461][849]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.30:921][ 46]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_3:PersistentLevel.Door_C_6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.44:228][735]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.18.44:232][735]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.18.45:444][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.18.59:011][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.18.59:013][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.18.59:015][590]PIE: New page: PIE session: Testmap (11 Dec 2018 12:18:59)
+[2018.12.11-10.18.59:032][590]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.18.59:118][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086061s)
+[2018.12.11-10.18.59:118][590]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.18.59:119][590]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2018.12.11-10.18.59:119][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.087992s)
+[2018.12.11-10.18.59:184][590]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.18.59:206][590]LogInit: FAudioDevice initialized.
+[2018.12.11-10.18.59:256][590]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.18.59:256][590]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.18.59:258][590]PIE: Warning: Trying to simulate physics on ''/Game/Map/UEDPIE_0_Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.18.59:259][590]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.18.59
+[2018.12.11-10.18.59:262][590]LogWorld: Bringing up level for play took: 0.005353
+[2018.12.11-10.18.59:293][590]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.11-10.18.59:327][590]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 1.276
+[2018.12.11-10.18.59:327][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.05:365][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.05:366][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.05:404][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.19.05:404][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.05:432][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.05:449][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.19.05:475][948]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.11-10.19.07:584][ 71]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.07:590][ 71]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.08:853][147]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.12.11-10.19.14:696][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.19.14:812][501]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.19.14:828][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.14:828][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.19.14:829][501]PIE: New page: PIE session: Testmap (11 Dec 2018 12:19:14)
+[2018.12.11-10.19.14:829][501]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.19.14:844][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015223s)
+[2018.12.11-10.19.14:845][501]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.19.14:845][501]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.12.11-10.19.14:845][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.016159s)
+[2018.12.11-10.19.14:921][501]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.19.14:943][501]LogInit: FAudioDevice initialized.
+[2018.12.11-10.19.14:977][501]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.19.14:977][501]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.19.14:978][501]PIE: Warning: Trying to simulate physics on ''/Game/Map/UEDPIE_0_Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.14:979][501]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.19.14
+[2018.12.11-10.19.14:979][501]LogWorld: Bringing up level for play took: 0.001642
+[2018.12.11-10.19.14:994][501]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.943
+[2018.12.11-10.19.14:994][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.17:126][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.17:127][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.17:164][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.19.17:164][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.17:195][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.17:240][629]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.11-10.19.22:515][943]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.22:522][943]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.25:117][ 99]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.12.11-10.19.26:656][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.19.30:044][389]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.19.30:363][389]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.30:376][389]LogSlate: Took 0.006124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.11-10.19.32:660][506]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.34:344][590]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.34:348][590]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.34:374][590]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.35:801][673]BlueprintLog: New page: Compile Door
+[2018.12.11-10.19.35:811][673]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.35:812][673]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.35:813][673]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.35:814][673]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.36:014][673]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.36:014][673]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.36:016][673]PIE: Warning: Trying to simulate physics on ''/Game/Map/Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.36:017][673]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.36:053][673]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_5:PersistentLevel.Door_C_0.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.37:548][760]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.19.37:554][760]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.19.38:876][836]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.19.38:892][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.38:892][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.19.38:892][836]PIE: New page: PIE session: Testmap (11 Dec 2018 12:19:38)
+[2018.12.11-10.19.38:892][836]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.19.38:904][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011361s)
+[2018.12.11-10.19.38:904][836]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.19.38:905][836]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.12.11-10.19.38:905][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.012177s)
+[2018.12.11-10.19.38:972][836]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.19.38:990][836]LogInit: FAudioDevice initialized.
+[2018.12.11-10.19.39:026][836]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.19.39:026][836]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.19.39:028][836]PIE: Warning: Trying to simulate physics on ''/Game/Map/UEDPIE_0_Testmap.Testmap:PersistentLevel.Door.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.12.11-10.19.39:028][836]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.19.39
+[2018.12.11-10.19.39:028][836]LogWorld: Bringing up level for play took: 0.002008
+[2018.12.11-10.19.39:044][836]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.993
+[2018.12.11-10.19.39:044][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.40:206][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.40:207][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.40:243][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.19.40:243][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.19.40:272][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.19.40:318][906]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.11-10.19.49:816][467]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.49:822][467]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-10.19.52:236][612]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.12.11-10.19.55:279][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.19.55:466][803]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2018.12.11-10.20.08:447][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2018.12.11-10.20.08:478][532]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_Door8BC9A1A64BA35CACD50687AB5EBE934F.tmp' to 'D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset'
+[2018.12.11-10.20.09:683][601]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.20.09:688][601]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.20.13:578][827]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.20.13:594][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.13:594][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.20.13:594][827]PIE: New page: PIE session: Testmap (11 Dec 2018 12:20:13)
+[2018.12.11-10.20.13:594][827]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.20.13:604][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010097s)
+[2018.12.11-10.20.13:605][827]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.20.13:605][827]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.12.11-10.20.13:605][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.010916s)
+[2018.12.11-10.20.13:664][827]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.20.13:684][827]LogInit: FAudioDevice initialized.
+[2018.12.11-10.20.13:717][827]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.20.13:717][827]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.20.13:720][827]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.20.13
+[2018.12.11-10.20.13:720][827]LogWorld: Bringing up level for play took: 0.001731
+[2018.12.11-10.20.13:735][827]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap -0.316
+[2018.12.11-10.20.13:736][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.16:481][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.16:481][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.20.16:517][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.20.16:518][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.16:546][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.20.16:581][993]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.11-10.20.21:616][295]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.12.11-10.20.23:489][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.20.24:744][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.20.24:748][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.20.30:886][793]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.20.37:020][139]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.20.38:676][235]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.20.38:678][235]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.20.38:678][235]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.20.38:681][235]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.20.40:089][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.20.40:222][323]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.20.40:245][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.40:245][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.20.40:245][323]PIE: New page: PIE session: Testmap (11 Dec 2018 12:20:40)
+[2018.12.11-10.20.40:245][323]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.20.40:256][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010557s)
+[2018.12.11-10.20.40:256][323]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.20.40:257][323]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2018.12.11-10.20.40:257][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.011354s)
+[2018.12.11-10.20.40:317][323]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.20.40:336][323]LogInit: FAudioDevice initialized.
+[2018.12.11-10.20.40:367][323]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.20.40:367][323]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.20.40:369][323]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.20.40
+[2018.12.11-10.20.40:370][323]LogWorld: Bringing up level for play took: 0.001762
+[2018.12.11-10.20.40:384][323]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.333
+[2018.12.11-10.20.40:385][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.42:825][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.42:825][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.20.42:861][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.20.42:861][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.20.42:887][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.20.42:934][472]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.11-10.20.44:485][565]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.12.11-10.20.48:132][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.20.51:918][  6]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.21.07:833][880]LogSlate: Window 'My Blueprint' being destroyed
+[2018.12.11-10.21.07:847][880]LogSlate: Window 'My Blueprint' being destroyed
+[2018.12.11-10.21.11:200][ 67]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.21.20:148][562]LogSlate: Window 'Class Defaults' being destroyed
+[2018.12.11-10.21.21:625][641]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.21.21:635][641]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.21.27:830][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.21.32:224][248]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.21.32:230][248]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.21.40:735][748]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2018.12.11-10.21.58:583][592]LogSlate: Window 'My Blueprint' being destroyed
+[2018.12.11-10.21.58:595][592]LogSlate: Window 'My Blueprint' being destroyed
+[2018.12.11-10.22.00:790][720]LogSlate: Window 'Find Results' being destroyed
+[2018.12.11-10.22.01:874][785]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.22.01:881][785]LogSlate: Window 'Door*' being destroyed
+[2018.12.11-10.22.16:948][483]LogSlate: Window 'Create Blueprint' being destroyed
+[2018.12.11-10.22.16:975][483]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SM_Door.SM_Door
+[2018.12.11-10.22.27:624][960]BlueprintLog: New page: Compile SM_Door
+[2018.12.11-10.22.29:609][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SM_Door" FILE="D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset" SILENT=true
+[2018.12.11-10.22.29:631][ 45]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_Door7E5B5ADE4D3CD3D4E87396959C09FCF9.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset'
+[2018.12.11-10.22.30:536][ 91]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.22.30:546][ 91]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.22.41:928][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.22.42:044][769]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.22.42:069][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.22.42:069][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.22.42:069][769]PIE: New page: PIE session: Testmap (11 Dec 2018 12:22:42)
+[2018.12.11-10.22.42:070][769]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.22.42:081][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011240s)
+[2018.12.11-10.22.42:081][769]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.22.42:082][769]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.12.11-10.22.42:082][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.012195s)
+[2018.12.11-10.22.42:149][769]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.22.42:170][769]LogInit: FAudioDevice initialized.
+[2018.12.11-10.22.42:200][769]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.22.42:200][769]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.22.42:202][769]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.22.42
+[2018.12.11-10.22.42:202][769]LogWorld: Bringing up level for play took: 0.001543
+[2018.12.11-10.22.42:218][769]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.167
+[2018.12.11-10.22.42:218][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.22.45:191][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.22.45:192][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.22.45:229][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.22.45:230][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.22.45:261][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.22.45:292][949]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.11-10.22.47:032][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SM_Door.SM_Door
+[2018.12.11-10.23.10:668][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.23.21:731][935]BlueprintLog: New page: Compile SM_Door
+[2018.12.11-10.23.21:891][935]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.SM_Door_C_1.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.11-10.23.22:752][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SM_Door" FILE="D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset" SILENT=true
+[2018.12.11-10.23.22:785][978]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_DoorE2A436544EDE9C9F60235CA5F143477D.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset'
+[2018.12.11-10.23.52:554][656]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2018.12.11-10.24.39:939][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.24.40:041][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2018.12.11-10.24.40:054][444]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_DoorBB7B39ED456211F94B130D9B9E6C6D60.tmp' to 'D:/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset'
+[2018.12.11-10.24.42:771][606]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.24.42:791][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.24.42:793][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.24.42:793][606]PIE: New page: PIE session: Testmap (11 Dec 2018 12:24:42)
+[2018.12.11-10.24.42:793][606]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.24.42:805][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011544s)
+[2018.12.11-10.24.42:805][606]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.24.42:805][606]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.12.11-10.24.42:805][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.012498s)
+[2018.12.11-10.24.42:873][606]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.24.42:891][606]LogInit: FAudioDevice initialized.
+[2018.12.11-10.24.42:923][606]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.24.42:923][606]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.24.42:925][606]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.24.42
+[2018.12.11-10.24.42:925][606]LogWorld: Bringing up level for play took: 0.001820
+[2018.12.11-10.24.42:940][606]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.89
+[2018.12.11-10.24.42:940][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.24.44:999][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.24.45:000][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.24.45:042][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.24.45:042][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.24.45:069][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.24.45:100][731]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.11-10.24.48:696][848]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.11-10.24.48:780][848]LogSlate: Window 'SM_Door' being destroyed
+[2018.12.11-10.24.51:269][934]LogEditorViewport: Clicking on Actor (LMB): SM_Door_C (SM_Door)
+[2018.12.11-10.24.56:778][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.24.57:562][308]EditorErrors: New page: Actor attachment
+[2018.12.11-10.25.21:534][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.11-10.25.28:943][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.25.28:976][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.25.28:990][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.25.28:991][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.25.28:991][176]PIE: New page: PIE session: Testmap (11 Dec 2018 12:25:28)
+[2018.12.11-10.25.28:991][176]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.25.29:004][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012832s)
+[2018.12.11-10.25.29:004][176]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.25.29:004][176]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2018.12.11-10.25.29:005][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.013834s)
+[2018.12.11-10.25.29:072][176]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.25.29:091][176]LogInit: FAudioDevice initialized.
+[2018.12.11-10.25.29:121][176]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.25.29:121][176]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.25.29:123][176]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.25.29
+[2018.12.11-10.25.29:124][176]LogWorld: Bringing up level for play took: 0.001700
+[2018.12.11-10.25.29:139][176]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 1.088
+[2018.12.11-10.25.29:139][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.25.30:996][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.25.30:997][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.25.31:031][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.25.31:031][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.25.31:060][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.25.31:108][290]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.11-10.25.33:534][435]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SM_Door.SM_Door
+[2018.12.11-10.25.51:245][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.25.58:781][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.26.02:841][133]BlueprintLog: New page: Compile SM_Door
+[2018.12.11-10.26.03:003][133]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.SM_Door_C_2.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.11-10.26.03:003][133]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.SM_Door_C_2.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.11-10.26.39:728][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap" FILE="D:/EscapeRoom/Project/Saved/Autosaves/Game/Map/Testmap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.11-10.26.39:924][324]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap_Auto19BD6BBAE4F9CAEFF65B1D69F429D6308.tmp' to 'D:/EscapeRoom/Project/Saved/Autosaves/Game/Map/Testmap_Auto1.umap'
+[2018.12.11-10.26.39:975][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Testmap' took 0.278
+[2018.12.11-10.26.39:975][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
+[2018.12.11-10.26.39:978][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/SM_Door] ([1] browsable assets)...
+[2018.12.11-10.26.39:991][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/SM_Door.SM_Door]
+[2018.12.11-10.26.39:992][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SM_Door]
+[2018.12.11-10.26.39:992][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SM_Door" FILE="D:/EscapeRoom/Project/Saved/Autosaves/Game/Blueprints/SM_Door_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.11-10.26.40:021][324]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_Door_Auto1909384A34D7D55425CB213901691F196.tmp' to 'D:/EscapeRoom/Project/Saved/Autosaves/Game/Blueprints/SM_Door_Auto1.uasset'
+[2018.12.11-10.26.40:028][324]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.12.11-10.27.51:015][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.28.36:739][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.28.48:557][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.29.11:972][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SM_Door" FILE="D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset" SILENT=true
+[2018.12.11-10.29.11:990][357]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/SM_Door953F7ED04C845AC5B813CAB8E63B2B71.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/SM_Door.uasset'
+[2018.12.11-10.29.56:519][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.30.16:130][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.11-10.30.32:510][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.30.32:608][287]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.30.32:631][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.32:631][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.30.32:631][287]PIE: New page: PIE session: Testmap (11 Dec 2018 12:30:32)
+[2018.12.11-10.30.32:631][287]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.30.32:644][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012461s)
+[2018.12.11-10.30.32:645][287]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.30.32:645][287]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.12.11-10.30.32:645][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.013485s)
+[2018.12.11-10.30.32:710][287]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.30.32:729][287]LogInit: FAudioDevice initialized.
+[2018.12.11-10.30.32:760][287]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.30.32:760][287]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.30.32:762][287]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.30.32
+[2018.12.11-10.30.32:762][287]LogWorld: Bringing up level for play took: 0.001575
+[2018.12.11-10.30.32:777][287]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.726
+[2018.12.11-10.30.32:777][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.35:506][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.35:506][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.30.35:545][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.30.35:545][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.35:575][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.30.35:606][452]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.11-10.30.37:926][590]EditorErrors: New page: Actor attachment
+[2018.12.11-10.30.39:378][677]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.30.39:392][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.39:393][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.30.39:393][677]PIE: New page: PIE session: Testmap (11 Dec 2018 12:30:39)
+[2018.12.11-10.30.39:393][677]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.30.39:403][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010112s)
+[2018.12.11-10.30.39:404][677]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.30.39:404][677]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.12.11-10.30.39:404][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.010958s)
+[2018.12.11-10.30.39:466][677]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.30.39:483][677]LogInit: FAudioDevice initialized.
+[2018.12.11-10.30.39:513][677]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.30.39:513][677]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.30.39:515][677]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.30.39
+[2018.12.11-10.30.39:515][677]LogWorld: Bringing up level for play took: 0.001811
+[2018.12.11-10.30.39:530][677]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap -0.521
+[2018.12.11-10.30.39:530][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.41:605][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.41:605][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.30.41:646][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.30.41:646][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.30.41:671][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.30.41:720][804]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.11-10.30.46:444][ 85]EditorErrors: New page: Actor attachment
+[2018.12.11-10.31.03:009][ 76]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.12.11-10.31.03:072][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.31.07:817][358]LogEditorViewport: Clicking on Actor (LMB): SM_Door_C (SM_Door)
+[2018.12.11-10.31.12:690][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.11-10.31.21:213][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.31.21:313][163]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.31.21:326][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.31.21:326][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.31.21:326][163]PIE: New page: PIE session: Testmap (11 Dec 2018 12:31:21)
+[2018.12.11-10.31.21:326][163]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.31.21:337][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011198s)
+[2018.12.11-10.31.21:338][163]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.31.21:338][163]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.12.11-10.31.21:338][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.012131s)
+[2018.12.11-10.31.21:399][163]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.31.21:417][163]LogInit: FAudioDevice initialized.
+[2018.12.11-10.31.21:449][163]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.31.21:449][163]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.31.21:451][163]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.31.21
+[2018.12.11-10.31.21:452][163]LogWorld: Bringing up level for play took: 0.001601
+[2018.12.11-10.31.21:467][163]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap -0.584
+[2018.12.11-10.31.21:467][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.31.25:327][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.31.25:327][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.31.25:365][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.31.25:365][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.31.25:396][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.31.25:435][396]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.11-10.31.30:676][710]LogEditorViewport: Clicking on Actor (LMB): SM_Door_C (SM_Door)
+[2018.12.11-10.31.32:795][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.12.11-10.31.41:960][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.31.51:564][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.32.06:689][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.32.06:706][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.06:706][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.32.06:706][865]PIE: New page: PIE session: Testmap (11 Dec 2018 12:32:06)
+[2018.12.11-10.32.06:706][865]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.32.06:718][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011620s)
+[2018.12.11-10.32.06:718][865]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.32.06:718][865]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.12.11-10.32.06:718][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.012381s)
+[2018.12.11-10.32.06:782][865]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.32.06:801][865]LogInit: FAudioDevice initialized.
+[2018.12.11-10.32.06:832][865]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.32.06:832][865]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.32.06:834][865]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.32.06
+[2018.12.11-10.32.06:834][865]LogWorld: Bringing up level for play took: 0.001522
+[2018.12.11-10.32.06:849][865]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap 0.798
+[2018.12.11-10.32.06:849][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.43:851][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.43:851][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.32.43:889][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.32.43:890][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.43:919][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.32.43:966][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.11-10.32.47:140][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.32.47:240][282]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-10.32.47:254][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.47:254][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-10.32.47:254][282]PIE: New page: PIE session: Testmap (11 Dec 2018 12:32:47)
+[2018.12.11-10.32.47:254][282]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Testmap
+[2018.12.11-10.32.47:265][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010613s)
+[2018.12.11-10.32.47:265][282]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-10.32.47:266][282]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.12.11-10.32.47:266][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Testmap.Testmap to /Game/Map/UEDPIE_0_Testmap.Testmap (0.011527s)
+[2018.12.11-10.32.47:334][282]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.32.47:353][282]LogInit: FAudioDevice initialized.
+[2018.12.11-10.32.47:383][282]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.11-10.32.47:383][282]LogLoad: Game class is 'GameModeBase'
+[2018.12.11-10.32.47:386][282]LogWorld: Bringing World /Game/Map/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2018.12.11-11.32.47
+[2018.12.11-10.32.47:386][282]LogWorld: Bringing up level for play took: 0.002253
+[2018.12.11-10.32.47:401][282]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Testmap -0.649
+[2018.12.11-10.32.47:401][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.32.51:591][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.32.55:341][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.33.59:710][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-10.33.59:876][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.33.59:876][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.33.59:911][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-10.33.59:911][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Map/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Map/Testmap.Testmap:PersistentLevel.Testmap'
+[2018.12.11-10.33.59:936][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-10.33.59:984][629]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.11-10.34.07:661][ 89]LogEditorViewport: Clicking on Actor (LMB): SM_Door_C (SM_Door)
+[2018.12.11-10.34.08:733][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.34.10:284][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-10.35.29:679][881]BlueprintLog: New page: Compile SM_Door
+[2018.12.11-10.35.29:836][881]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.SM_Door_C_3.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.11-10.35.29:836][881]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.SM_Door_C_3.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.11-10.37.52:792][271]LogInit: XAudio2 using 'Hoofdtelefoon (Gear IconX (F208) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-10.38.53:867][737]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.12.11-10.38.53:888][737]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.12.11-10.38.53:888][737]LogD3D11RHI: [Aftermath] GDynamicRHI=0000020949D5A140, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.12.11-10.38.53:888][737]LogWindows: Windows GetLastError: De bewerking is voltooid. (0)
+[2018.12.11-10.38.57:087][737]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.11-10.38.57:087][737]LogWindows: Windows GetLastError: De bewerking is voltooid. (0)
+[2018.12.11-10.38.57:087][737]LogThreadingWindows: Error: Runnable thread RenderThread 47 crashed.
+[2018.12.11-10.38.57:087][737]LogWindows: Error: === Critical error: ===
+[2018.12.11-10.38.57:087][737]LogWindows: Error: 
+[2018.12.11-10.38.57:087][737]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2018.12.11-10.38.57:087][737]LogWindows: Error: Rendering thread exception:
+[2018.12.11-10.38.57:087][737]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 200] 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe55d5a388 KERNELBASE.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1b3fcd1a UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1b1da967 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1b110df7 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cd4d32a UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cd50d64 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cd264f1 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cd3c818 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1dd337c5 UE4Editor-RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1dd33355 UE4Editor-RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1dd3447c UE4Editor-RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1dd2b905 UE4Editor-RHI.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cc1179e UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe0cc179ca UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1afa1798 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1afa1c56 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1de39af9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1de3aa74 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1b3fc500 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe1b3ecac1 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe58ad3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: [Callstack] 0x00007ffe59621471 ntdll.dll!UnknownFunction []
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: 
+[2018.12.11-10.38.57:088][737]LogWindows: Error: Crash in runnable thread RenderThread 47
+[2018.12.11-10.38.57:099][737]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.11-10.38.57:099][737]LogWindows: Windows GetLastError: De bewerking is voltooid. (0)
+[2018.12.11-10.38.57:099][737]LogWindows: Error: HandleError re-entered.
+[2018.12.11-10.38.57:099][737]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.12.11-10.38.57:110][737]Log file closed, 12/11/18 11:38:57
