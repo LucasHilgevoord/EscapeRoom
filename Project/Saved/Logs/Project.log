@@ -594,3 +594,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.11-12.52.24:142][101]LogSlate: Window 'Message Log' being destroyed
 [2018.12.11-12.52.24:147][101]LogSlate: Window 'Message Log' being destroyed
 [2018.12.11-12.52.25:041][169]LogSlate: Took 0.010368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-12.53.51:356][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.53.56:665][229]LogSlate: Took 0.000812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-12.53.57:052][229]LogAIModule: Creating AISystem for world Testmap
+[2018.12.11-12.53.57:066][229]LogAssetEditorManager: Opening Asset editor for World /Game/Map/Testmap.Testmap
+[2018.12.11-12.53.57:094][229]Cmd: MAP LOAD FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-12.53.57:094][229]LightingResults: New page: Lighting Build
+[2018.12.11-12.53.57:095][229]LoadErrors: New page: Loading map: Testmap.umap
+[2018.12.11-12.53.57:097][229]MapCheck: New page: Map Check
+[2018.12.11-12.53.57:097][229]LightingResults: New page: Lighting Build
+[2018.12.11-12.53.57:134][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-12.53.57:180][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-12.53.57:181][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2018.12.11-12.53.57:181][229]LogFileHelpers: Loading map 'Testmap' took 0.088
+[2018.12.11-12.54.01:183][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.54.01:821][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap" FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.11-12.54.02:026][761]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap19E511164B48BB19FCE93AAB45A28830.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap.umap'
+[2018.12.11-12.54.02:061][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap_BuiltData" FILE="D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset" SILENT=true
+[2018.12.11-12.54.02:192][761]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap_BuiltData819A8B8B46263EF5A9EAE3BA25E871A9.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset'
+[2018.12.11-12.54.04:654][ 40]MapCheck: New page: Map Check
+[2018.12.11-12.54.04:681][ 40]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.11-12.54.04:681][ 40]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.11-12.54.04:726][ 40]LightingResults: New page: Lighting Build - 11 Dec 2018 14:54:04
+[2018.12.11-12.54.04:796][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.11-12.54.04:958][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.11-12.54.04:993][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.11-12.54.06:055][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.11-12.54.06:055][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8956
+[2018.12.11-12.54.11:135][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.11-12.54.11:135][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.11-12.54.11:136][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.11-12.54.11:136][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.11-12.54.11:136][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.11-12.54.11:339][ 40]LogEditorBuildUtils: Build time 0:06
+[2018.12.11-12.54.11:406][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.12.11-12.54.11:427][ 41]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.11-12.54.11:427][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.12.11-12.54.12:332][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.11-12.54.16:373][330]Job is a success!
+[2018.12.11-12.54.16:399][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:      BrickData 260x5x5 = 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:          1: 15.4% covering 12.5% of volume
+[2018.12.11-12.54.16:452][331]LogVolumetricLightmapImport:          2: 82.7% covering 1.0% of volume
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.12.11-12.54.16:770][331]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.12.11-12.54.16:853][331]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.12.11-12.54.16:853][331]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2018.12.11-12.54.16:853][331]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X512)
+[2018.12.11-12.54.16:938][331]Lightmass on DESKTOP-8AMLK8E: 3.51 sec total, 274 ms importing, 44 ms setup, 717 ms photons, 2.45 sec processing, 0 ms extra exporting [42/42 mappings]. Threads: 17.0 sec total, 7.41 sec processing.
+[2018.12.11-12.54.16:995][331]LogStaticLightingSystem: Illumination: 12.2 sec (271 ms encoding lightmaps, 68 ms encoding shadowmaps)
+[2018.12.11-12.54.16:995][331]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.12.11-12.54.16:995][331]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.2 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.12.11-12.54.17:143][331]DumpUnbuiltLightIteractions
+[2018.12.11-12.54.17:143][331]Lights with unbuilt interactions: 0
+[2018.12.11-12.54.17:143][331]
+[2018.12.11-12.54.17:143][331]Primitives with unbuilt interactions: 0
+[2018.12.11-12.54.17:185][332]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.11-12.54.17:185][332]MapCheck: New page: Testmap - 11 Dec 2018 14:54:17
+[2018.12.11-12.54.17:191][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.838ms to complete.
+[2018.12.11-12.54.20:750][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.55.07:303][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.11-12.55.09:249][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.55.09:592][947]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.12.11-12.55.09:664][947]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.11-12.55.09:664][947]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.11-12.55.09:664][947]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.11-12.55.09:664][947]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.11-12.55.18:669][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.55.19:041][604]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.12.11-12.55.19:075][604]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.11-12.55.19:075][604]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.11-12.55.19:075][604]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.11-12.55.19:075][604]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.11-12.55.30:411][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.55.30:683][472]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.12.11-12.55.30:716][472]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.11-12.55.30:716][472]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.11-12.55.30:716][472]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.11-12.55.30:716][472]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.11-12.55.40:804][234]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.12.11-12.55.40:838][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-12.55.42:614][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.11-12.55.45:744][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-12.56.07:007][758]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.11-12.56.21:543][838]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.11-12.56.35:132][157]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.11-12.57.06:740][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap" FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.11-12.57.06:899][806]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap507D82434D699E18F0F6359DEED7335D.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap.umap'
+[2018.12.11-12.57.06:928][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap_BuiltData" FILE="D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset" SILENT=true
+[2018.12.11-12.57.07:011][806]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap_BuiltDataD20342E24DF4E585EEC210932043F9B2.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset'
+[2018.12.11-12.58.40:338][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap" FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.11-12.58.40:495][820]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap94A438374561ED1E36532EB43DA98D7A.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap.umap'
+[2018.12.11-12.58.40:524][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap_BuiltData" FILE="D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset" SILENT=true
+[2018.12.11-12.58.40:604][820]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap_BuiltData85C2F73D465F95088CDBA583F3F8A48A.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset'
+[2018.12.11-13.04.13:617][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap" FILE="D:/EscapeRoom/Project/Content/Map/Testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.11-13.04.13:780][554]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap6606B2F4423D7FFA2CC1DF97F698C83B.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap.umap'
+[2018.12.11-13.04.13:809][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Testmap_BuiltData" FILE="D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset" SILENT=true
+[2018.12.11-13.04.13:899][554]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/Testmap_BuiltDataCA8FC8B945BB810A3417BE933093A1A7.tmp' to 'D:/EscapeRoom/Project/Content/Map/Testmap_BuiltData.uasset'
