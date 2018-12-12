@@ -1,0 +1,1536 @@
+﻿Log file open, 12/12/18 20:28:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.245573
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.129s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.12-19.28.30:217][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.12-19.28.30:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:218][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-19.28.30:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-19.28.30:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-19.28.30:224][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-19.28.30:224][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.12-19.28.30:235][  0]LogHAL: Display: Platform has ~ 16 GB [17132843008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.12-19.28.30:235][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.12-19.28.30:235][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-19.28.30:235][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.12-19.28.30:235][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-19.28.30:235][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-19.28.30:236][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.12-19.28.30:237][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.12-19.28.30:237][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.12-19.28.30:237][  0]LogInit: Computer: DESKTOP-FEV42IL
+[2018.12.12-19.28.30:237][  0]LogInit: User: FloydLehman
+[2018.12.12-19.28.30:237][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.12-19.28.30:237][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2018.12.12-19.28.30:237][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.12-19.28.30:237][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.12-19.28.30:237][  0]LogMemory: Process Physical Memory: 102.56 MB used, 102.56 MB peak
+[2018.12.12-19.28.30:237][  0]LogMemory: Process Virtual Memory: 85.32 MB used, 85.32 MB peak
+[2018.12.12-19.28.30:237][  0]LogMemory: Physical Memory: 7293.46 MB used,  9045.69 MB free, 16339.15 MB total
+[2018.12.12-19.28.30:237][  0]LogMemory: Virtual Memory: 4628.16 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.12.12-19.28.30:952][  0]LogInit: Using OS detected language (nl-NL).
+[2018.12.12-19.28.30:952][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.12.12-19.28.30:954][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.12.12-19.28.31:266][  0]LogStreaming: Display: Took  0.314s to InitEngineTextLocalization.
+[2018.12.12-19.28.31:266][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.12-19.28.31:287][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.12-19.28.31:287][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.12-19.28.31:591][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.12-19.28.31:711][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.12-19.28.31:711][  0]LogD3D11RHI:       8079/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.12-19.28.31:713][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.12-19.28.31:713][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.12-19.28.31:713][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.12-19.28.31:719][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.12-19.28.31:719][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.12-19.28.31:719][  0]LogWindows: EnumDisplayDevices:
+[2018.12.12-19.28.31:719][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.12-19.28.31:719][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.12.12-19.28.31:720][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.12-19.28.31:720][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.12-19.28.31:720][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.12-19.28.31:720][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.12-19.28.31:720][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.12.12-19.28.31:720][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.12.12-19.28.31:720][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.12-19.28.31:754][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.12-19.28.31:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.12-19.28.32:152][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.12-19.28.32:164][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.12-19.28.32:176][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.12-19.28.32:188][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.12-19.28.32:201][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.12-19.28.32:213][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.12-19.28.32:225][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.12-19.28.32:238][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.12-19.28.32:244][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-19.28.32:314][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.12-19.28.32:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-19.28.32:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-19.28.32:392][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-19.28.32:392][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-19.28.32:403][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.12-19.28.32:414][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.12-19.28.32:424][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.12-19.28.32:436][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.12-19.28.32:472][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-19.28.32:472][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-19.28.32:472][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.12-19.28.32:535][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Intermediate/Shaders/WorkingDirectory/5532/).
+[2018.12.12-19.28.32:535][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Floyd Lehman/AppData/Local/Temp/UnrealShaderWorkingDir/F56A359B47F62A053DB5C7A0DFE6E180/'.
+[2018.12.12-19.28.32:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.12-19.28.32:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.12-19.28.32:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.12-19.28.33:008][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-19.28.33:060][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.12-19.28.33:071][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.12-19.28.33:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-19.28.33:071][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.12-19.28.33:086][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.12-19.28.33:086][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.12-19.28.33:086][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.12-19.28.33:104][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.12-19.28.33:105][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.12-19.28.33:106][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.12-19.28.33:225][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2018.12.12-19.28.33:488][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-19.28.33:626][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.12-19.28.33:631][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.12-19.28.33:631][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.12-19.28.33:631][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.12-19.28.33:631][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.12-19.28.33:645][  0]LogNetVersion: Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1228489884)
+[2018.12.12-19.28.34:185][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.066752 seconds
+[2018.12.12-19.28.34:190][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.12-19.28.34:190][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.12-19.28.34:190][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.12-19.28.35:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.12-19.28.35:170][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.12-19.28.36:010][  0]SourceControl: Source control is disabled
+[2018.12.12-19.28.36:010][  0]SourceControl: Source control is disabled
+[2018.12.12-19.28.36:012][  0]SourceControl: Source control is disabled
+[2018.12.12-19.28.36:014][  0]SourceControl: Source control is disabled
+[2018.12.12-19.28.36:177][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.12-19.28.36:426][  0]LogOcInput: OculusInput pre-init called
+[2018.12.12-19.28.36:567][  0]LogEngine: Initializing Engine...
+[2018.12.12-19.28.36:634][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-D3107C5C
+[2018.12.12-19.28.36:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-19.28.36:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-19.28.36:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-19.28.36:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-19.28.36:838][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.12-19.28.36:851][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.12-19.28.36:962][  0]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-19.28.36:992][  0]LogInit: FAudioDevice initialized.
+[2018.12.12-19.28.36:992][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.12-19.28.37:065][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-19.28.37:075][  0]LogInit: Texture streaming: Enabled
+[2018.12.12-19.28.37:099][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.12-19.28.37:116][  0]LogInit: Transaction tracking system initialized
+[2018.12.12-19.28.37:142][  0]BlueprintLog: New page: Editor Load
+[2018.12.12-19.28.37:228][  0]LocalizationService: Localization service is disabled
+[2018.12.12-19.28.37:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/' took 0.02s
+[2018.12.12-19.28.37:702][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.12-19.28.37:702][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.12-19.28.37:702][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.12-19.28.37:702][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-19.28.37:702][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-19.28.37:702][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-19.28.37:702][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-19.28.37:839][  0]SourceControl: Source control is disabled
+[2018.12.12-19.28.37:931][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.12-19.28.55:397][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.12-19.28.55:397][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-19.28.55:409][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-19.28.57:059][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.12.12-19.28.57:059][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-19.28.57:074][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-19.28.57:075][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Scenes/TestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-19.28.57:075][  0]LightingResults: New page: Lighting Build
+[2018.12.12-19.28.57:079][  0]MapCheck: New page: Map Check
+[2018.12.12-19.28.57:079][  0]LightingResults: New page: Lighting Build
+[2018.12.12-19.28.57:403][  0]LogLinker: Warning: Can't find file '/Game/Scenes/TestScene_BuiltData'
+[2018.12.12-19.28.57:404][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/TestScene_BuiltData' while loading ../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Scenes/TestScene.umap.
+[2018.12.12-19.28.57:404][  0]LoadErrors: Error: /Game/Scenes/TestScene : Can't find file for asset. /Game/Scenes/TestScene_BuiltData
+[2018.12.12-19.28.57:450][  0]LogLinker: Warning: Can't find file '/Game/Scenes/TestScene_BuiltData'
+[2018.12.12-19.28.57:451][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/TestScene_BuiltData' while loading ../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Scenes/TestScene.umap.
+[2018.12.12-19.28.57:451][  0]LoadErrors: Error: /Game/Scenes/TestScene : Can't find file for asset. /Game/Scenes/TestScene_BuiltData
+[2018.12.12-19.28.57:464][  0]LogLinker: Warning: Can't find file '/Game/Scenes/TestScene_BuiltData'
+[2018.12.12-19.28.57:464][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/TestScene_BuiltData' while loading NULL.
+[2018.12.12-19.28.57:464][  0]LogLinker: Warning: Can't find file '/Game/Scenes/TestScene_BuiltData'
+[2018.12.12-19.28.57:464][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/TestScene_BuiltData' while loading NULL.
+[2018.12.12-19.28.57:481][  0]LogLinker: Warning: Can't find file '/Game/Scenes/TestScene_BuiltData'
+[2018.12.12-19.28.57:481][  0]LoadErrors: Failed to load /Game/Scenes/TestScene_BuiltData.TestScene_BuiltData Referenced by PersistentLevel
+[2018.12.12-19.28.57:481][  0]LogLinker: Warning: Can't find file for asset '/Game/Scenes/TestScene_BuiltData' while loading NULL.
+[2018.12.12-19.28.57:481][  0]LoadErrors: Failed to load /Game/Scenes/TestScene_BuiltData.TestScene_BuiltData Referenced by PersistentLevel
+[2018.12.12-19.28.57:837][  0]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-19.28.57:853][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.12-19.28.57:880][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-19.28.57:880][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2018.12.12-19.28.57:880][  0]LogFileHelpers: Loading map 'TestScene' took 0.805
+[2018.12.12-19.28.57:914][  0]LogCollectionManager: Loaded 0 collections in 0.002173 seconds
+[2018.12.12-19.28.57:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Collections/' took 0.01s
+[2018.12.12-19.28.57:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Developers/FloydLehman/Collections/' took 0.00s
+[2018.12.12-19.28.57:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Collections/' took 0.01s
+[2018.12.12-19.28.57:942][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.12-19.28.57:949][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2651 classes and 620 folders.
+[2018.12.12-19.28.57:956][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.12-19.28.57:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.57:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.58:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.58:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.58:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-19.28.58:076][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.12-19.28.58:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-19.28.58:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-19.28.58:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-19.28.58:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-19.28.58:117][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.12-19.28.58:130][  0]LogSlate: Took 0.000871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.12-19.28.58:130][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.12-19.28.58:134][  0]LogSlate: Took 0.000653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.12-19.28.58:190][  0]LogRenderer: Reallocating scene render targets to support 1208x700 Format 26 NumSamples 1 (Frame:1).
+[2018.12.12-19.28.58:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.12-19.28.58:351][  0]LogLoad: (Engine Initialization) Total time: 30.33 seconds
+[2018.12.12-19.28.58:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.12-19.28.58:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.12-19.28.58:418][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.28.58:509][  1]LogRenderer: Reallocating scene render targets to support 1208x716 Format 26 NumSamples 1 (Frame:5).
+[2018.12.12-19.28.58:520][  1]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.SM_Door_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.12-19.28.58:521][  1]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.SM_Door_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.12-19.28.58:521][  1]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.SM_Door_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.12-19.28.58:691][  2]LogAssetRegistry: Asset discovery search completed in 25.4884 seconds
+[2018.12.12-19.28.58:692][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.12-19.28.58:692][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
+[2018.12.12-19.28.58:710][  3]PIE: Warning: Constraint in '/Engine/Transient.World_4:PersistentLevel.Moveable_Clockframe_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.12-19.28.59:380][ 74]LogSlate: Took 0.002140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-19.28.59:983][143]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-19.28.59:985][143]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-19.29.01:159][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.29.01:418][312]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-19.29.06:540][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.29.12:972][626]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Number_2_Up.Number_2_Up
+[2018.12.12-19.29.13:317][626]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2018.12.12-19.29.13:945][626]LogSlate: Took 0.001105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.12-19.29.14:001][627]LogSlate: Took 0.001019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.12-19.29.17:283][921]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Number_2_Down.Number_2_Down
+[2018.12.12-19.29.17:907][958]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Number_1_Down.Number_1_Down
+[2018.12.12-19.29.18:518][993]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Button.Button
+[2018.12.12-19.29.19:688][ 90]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TriggerBox.TriggerBox
+[2018.12.12-19.30.01:440][846]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.12.12-19.30.17:202][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.30.17:734][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestScene" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Scenes/TestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.12-19.30.17:943][168]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/TestScene7A9EFE42461BD4F573480B97B814DF82.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/Scenes/TestScene.umap'
+[2018.12.12-19.30.31:188][650]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.12-19.30.47:065][473]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-19.32.25:023][698]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/VualtUI.VualtUI
+[2018.12.12-19.32.25:665][739]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Vault.Vault
+[2018.12.12-19.32.37:466][949]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-19.32.38:062][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-19.32.38:080][  1]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI12BC01274B140FB2D6412688F8CB1F21.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-19.33.19:473][812]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.12-19.35.08:554][237]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2018.12.12-19.35.17:478][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.40.18:065][449]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/TestScene_Auto1510C1BEB4990750E7F5AB79C0D272C68.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/TestScene_Auto1.umap'
+[2018.12.12-19.40.18:071][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/TestScene' took 0.234
+[2018.12.12-19.40.18:071][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2018.12.12-19.40.18:072][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.12.12-19.40.18:072][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.12.12-19.40.18:172][449]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn_Auto1635687674EB92501D4668BA9A1D20F1B.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2018.12.12-19.40.18:176][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Vault] ([1] browsable assets)...
+[2018.12.12-19.40.18:176][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Vault]
+[2018.12.12-19.40.18:176][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/Vault_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.12-19.40.18:195][449]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault_Auto1A95F50E74C95308F0C5AEDBE43075B92.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/Vault_Auto1.uasset'
+[2018.12.12-19.40.18:197][449]LogFileHelpers: Auto-saving content packages took 0.125
+[2018.12.12-19.41.10:811][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.41.21:328][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.41.55:567][311]BlueprintLog: New page: Compile Vault
+[2018.12.12-19.43.13:873][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.12-19.43.38:116][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.43.43:148][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.43.46:106][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.43.54:675][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.43.54:752][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.12.12-19.44.03:662][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.44.11:535][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-19.44.18:036][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.46.43:693][586]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Vault.Vault
+[2018.12.12-19.48.45:655][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-19.51.33:882][ 99]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/TestScene_Auto227BE0A154C3E3C2FAFDB2590DFF4E674.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/TestScene_Auto2.umap'
+[2018.12.12-19.51.33:888][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/TestScene' took 0.232
+[2018.12.12-19.51.33:888][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2018.12.12-19.51.33:889][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.12.12-19.51.33:890][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.12.12-19.51.33:991][ 99]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn_Auto2E6788CB948B5AD0491B21B8E62D9C929.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
+[2018.12.12-19.51.33:994][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VualtUI] ([1] browsable assets)...
+[2018.12.12-19.51.33:995][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VualtUI]
+[2018.12.12-19.51.33:995][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/VualtUI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.12-19.51.34:014][ 99]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI_Auto25F58F41A49A63146A7196DAF6D991DFF.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/VualtUI_Auto2.uasset'
+[2018.12.12-19.51.34:016][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Vault] ([1] browsable assets)...
+[2018.12.12-19.51.34:017][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Vault]
+[2018.12.12-19.51.34:017][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/Vault_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.12-19.51.34:034][ 99]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault_Auto279D1B8944DC778F13A070F99AC26A5F3.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/UI/Vault_Auto2.uasset'
+[2018.12.12-19.51.34:037][ 99]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.12.12-19.59.18:697][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-19.59.18:716][298]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault569A4FD14799DDF7542B94A349E170DC.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.00.06:238][255]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.00.06:883][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.00.06:897][293]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault4CBCA2C84C329A3B25D3AA8177018B02.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.00.08:211][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.12.12-20.00.11:504][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-20.00.27:609][996]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.00.28:272][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.00.28:286][ 32]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultC4D9F52340D49A7FC70A109D30E70AA7.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.00.55:461][887]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.01.43:103][506]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.01.43:762][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.01.43:782][563]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUIE546EAC642A4542F35D34D9D269F7DD5.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.01.53:293][638]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.01.53:875][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.01.53:892][685]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI4388446A4DE9961515CCFD88868917B6.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.03.37:305][ 33]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.03.38:056][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.03.38:071][ 75]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultB6AC58E04770137BCFB0A3BA1A9128A7.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.04.22:149][692]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.12-20.04.26:990][201]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.12-20.04.26:993][201]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.12-20.12.21:707][671]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.12-20.12.24:448][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_12 or K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_12
+[2018.12.12-20.12.24:449][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_13 or K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_13
+[2018.12.12-20.12.24:449][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_14 or K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_14
+[2018.12.12-20.12.24:450][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_16 or K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_16
+[2018.12.12-20.12.24:450][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableSet_2 or K2Node_VariableSet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableSet_2
+[2018.12.12-20.12.24:451][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_17 or K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_17
+[2018.12.12-20.12.24:451][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_16 or K2Node_VariableGet /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_VariableGet_16
+[2018.12.12-20.12.24:452][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_19 or K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_19
+[2018.12.12-20.12.24:452][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_20 or K2Node_CallFunction /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CallFunction_20
+[2018.12.12-20.12.24:452][952]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CommutativeAssociativeBinaryOperator_2 or K2Node_CommutativeAssociativeBinaryOperator /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn:Input1.K2Node_CommutativeAssociativeBinaryOperator_2
+[2018.12.12-20.12.33:399][923]LogEditorTransaction: Undo Delete current selection
+[2018.12.12-20.13.29:706][969]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.13.29:792][969]LogBlueprint: Warning: [Compiler MotionControllerPawn] Can't parse default value 'None' for  . Property: Number_1_int.
+[2018.12.12-20.13.29:969][969]LogBlueprint: Warning: [Compiler MotionControllerPawn] [2701,95] Compile of MotionControllerPawn successful, but with 1 Warning(s) [in 263 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.12.12-20.13.33:592][353]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.13.35:252][494]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.13.36:188][549]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn749DEBE64B1276E9F4496FA696EB1594.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.13.38:208][764]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.13.38:882][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.13.38:902][822]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI62EEBD824DE2EA7D5F5F14931F54ED82.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.13.51:496][190]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.13.51:532][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.13.51:533][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.13.51:534][190]PIE: New page: PIE session: TestScene (12 dec. 2018 22:13:51)
+[2018.12.12-20.13.51:546][190]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.13.51:553][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006513s)
+[2018.12.12-20.13.51:553][190]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.13.51:554][190]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.12.12-20.13.51:554][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.007816s)
+[2018.12.12-20.13.51:641][190]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.13.51:667][190]LogInit: FAudioDevice initialized.
+[2018.12.12-20.13.51:671][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.13.51:753][190]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.13.51:753][190]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.13.51:757][190]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.13.51
+[2018.12.12-20.13.51:758][190]LogWorld: Bringing up level for play took: 0.004530
+[2018.12.12-20.13.51:779][190]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2018.12.12-20.13.51:788][190]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,893
+[2018.12.12-20.13.51:788][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.13.51:858][192]LogRenderer: Reallocating scene render targets to support 4192x2328 Format 26 NumSamples 1 (Frame:1).
+[2018.12.12-20.13.51:864][192]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.14.03:423][206]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:01F1
+[2018.12.12-20.14.03:424][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.03:424][206]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:0206
+[2018.12.12-20.14.03:424][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.03:424][206]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:021B
+[2018.12.12-20.14.03:425][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.03:890][247]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:01F1
+[2018.12.12-20.14.03:890][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.03:890][247]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:0206
+[2018.12.12-20.14.03:891][247]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.03:891][247]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:021B
+[2018.12.12-20.14.03:891][247]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:682][318]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03B3
+[2018.12.12-20.14.04:683][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:683][318]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03C8
+[2018.12.12-20.14.04:684][318]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:684][318]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03DD
+[2018.12.12-20.14.04:684][318]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:959][342]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03B3
+[2018.12.12-20.14.04:960][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:960][342]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03C8
+[2018.12.12-20.14.04:960][342]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.04:960][342]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03DD
+[2018.12.12-20.14.04:961][342]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:208][364]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03B3
+[2018.12.12-20.14.05:208][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:208][364]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03C8
+[2018.12.12-20.14.05:209][364]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:209][364]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03DD
+[2018.12.12-20.14.05:209][364]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:441][385]LogScript: Warning: Accessed None trying to read property Widget
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03B3
+[2018.12.12-20.14.05:442][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:442][385]LogScript: Warning: Accessed None
+	MotionControllerPawn_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VRPawn_507
+	Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:Input1:03C8
+[2018.12.12-20.14.05:442][385]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.05:443][385]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:034][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:035][438]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:035][438]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:302][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:303][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:303][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:503][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:503][479]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.06:503][479]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:028][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:029][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:029][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:262][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:263][547]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.07:263][547]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.09:541][748]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.09:783][770]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.11:273][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.11:274][900]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.11:274][900]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.11:920][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.11:921][957]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.11:921][957]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.12:156][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.12:156][978]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.12:156][978]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.12:510][  9]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.12:759][ 31]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.13:618][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.13:619][107]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.13:619][107]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.13:842][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.13:842][127]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.13:843][127]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:144][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:144][154]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:144][154]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:367][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:367][174]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:367][174]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.14:859][218]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.15:081][238]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.14.16:020][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.16:020][322]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.16:020][322]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.16:255][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.16:255][342]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.16:256][342]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.17:963][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.17:963][490]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.17:963][490]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:220][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:221][513]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:221][513]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:612][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:612][547]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:612][547]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:857][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:857][569]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.18:857][569]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:449][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:449][621]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:449][621]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:707][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:707][644]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.19:707][644]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:119][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:119][680]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:119][680]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:377][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:377][703]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.20:377][703]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:348][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:348][790]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:349][790]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:694][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:695][821]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.21:695][821]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:275][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:276][873]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:276][873]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:566][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:566][898]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:566][898]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:867][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:868][924]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.22:868][924]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:124][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:125][946]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:125][946]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:370][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:370][968]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.23:371][968]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:018][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:018][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:019][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:286][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:286][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.24:286][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.14.30:553][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.14.30:632][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.14.30:738][593]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.14.30:776][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.14.30:777][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.14.30:920][594]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.12-20.14.53:155][712]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.14.53:159][712]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.14.57:263][168]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.15.11:386][780]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.16.12:804][918]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.16.13:173][918]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn7AC1140841E6464D6D38BBB104985C5B.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.16.14:065][998]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnC469F11F403570E8BF2B14930B8A1EF8.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.16.15:048][ 84]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/TestScene_Auto3143317EE478AA2831CF092A304922666.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/TestScene_Auto3.umap'
+[2018.12.12-20.16.15:055][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/TestScene' took 0.223
+[2018.12.12-20.16.15:055][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.223
+[2018.12.12-20.16.17:180][330]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.16.17:204][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.16.17:204][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.16.17:204][330]PIE: New page: PIE session: TestScene (12 dec. 2018 22:16:17)
+[2018.12.12-20.16.17:204][330]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.16.17:210][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005839s)
+[2018.12.12-20.16.17:211][330]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.16.17:211][330]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.12.12-20.16.17:211][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006743s)
+[2018.12.12-20.16.17:299][330]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.16.17:322][330]LogInit: FAudioDevice initialized.
+[2018.12.12-20.16.17:330][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.16.17:400][330]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.16.17:400][330]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.16.17:402][330]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.16.17
+[2018.12.12-20.16.17:403][330]LogWorld: Bringing up level for play took: 0.002705
+[2018.12.12-20.16.17:422][330]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,528
+[2018.12.12-20.16.17:422][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.16.17:513][332]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.16.28:160][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:161][264]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:161][264]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:686][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:686][311]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:687][311]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:953][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:954][335]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.28:954][335]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:523][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:524][383]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:524][383]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:813][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:814][407]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.29:814][407]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.30:618][478]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.16.32:673][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.32:673][660]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.32:673][660]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.32:907][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.32:908][681]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.32:908][681]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.35:700][929]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.16.35:946][951]LogBlueprintUserMessages: [VRPawn_507] Down
+[2018.12.12-20.16.36:303][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:303][982]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:304][982]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:504][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:505][  0]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:505][  0]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:839][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:840][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.36:840][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:073][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:074][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:074][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:298][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:298][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:298][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:576][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:577][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:577][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:789][113]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:789][113]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.37:790][113]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:023][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:023][134]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:024][134]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:235][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:235][153]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.38:236][153]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MotionControllerPawn Function:  Input 1 Graph:  Input1 Node:  SetText (Text)
+[2018.12.12-20.16.45:027][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.16.45:109][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.16.45:210][748]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.16.45:247][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.16.45:247][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.16.45:371][749]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.12-20.16.49:696][195]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.16.49:701][195]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.16.57:830][135]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnF77C830D48C1CBC167249EA0BAC02CE7.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.16.58:151][165]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.17.45:176][664]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.17.45:352][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.17.45:370][664]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI10CBA28C47490DE3350902BF15343516.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.17.45:945][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.17.45:964][725]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI651D027A438E79DA8360B19CBA1A65FD.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.17.47:530][910]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.17.47:553][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.17.47:553][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.17.47:554][910]PIE: New page: PIE session: TestScene (12 dec. 2018 22:17:47)
+[2018.12.12-20.17.47:554][910]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.17.47:560][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005722s)
+[2018.12.12-20.17.47:560][910]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.17.47:560][910]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2018.12.12-20.17.47:560][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006576s)
+[2018.12.12-20.17.47:649][910]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.17.47:672][910]LogInit: FAudioDevice initialized.
+[2018.12.12-20.17.47:676][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.17.47:747][910]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.17.47:747][910]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.17.47:749][910]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.17.47
+[2018.12.12-20.17.47:750][910]LogWorld: Bringing up level for play took: 0.002578
+[2018.12.12-20.17.47:763][910]LogScript: Warning: Accessed None trying to read property Number_1
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:0018
+[2018.12.12-20.17.47:763][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Number_1". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.17.47:763][910]LogScript: Warning: Accessed None
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:002D
+[2018.12.12-20.17.47:763][910]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.17.47:770][910]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,876
+[2018.12.12-20.17.47:770][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.17.47:892][912]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.18.23:624][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.18.23:700][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.18.23:757][ 60]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.18.23:794][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.18.23:795][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.18.23:877][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.12-20.18.32:877][122]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.18.32:880][122]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.21.11:069][158]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.21.11:249][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.21.11:274][158]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUIF328D4E34EA7FCAB352FBD9B24E0C50D.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.21.11:878][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.21.11:897][224]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUIC81A289749DF69299E42D2924AAFD02F.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.21.13:566][422]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.21.13:585][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.21.13:585][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.21.13:585][422]PIE: New page: PIE session: TestScene (12 dec. 2018 22:21:13)
+[2018.12.12-20.21.13:586][422]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.21.13:592][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005896s)
+[2018.12.12-20.21.13:592][422]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.21.13:592][422]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.12.12-20.21.13:592][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006813s)
+[2018.12.12-20.21.13:681][422]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.21.13:705][422]LogInit: FAudioDevice initialized.
+[2018.12.12-20.21.13:715][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.21.13:788][422]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.21.13:788][422]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.21.13:791][422]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.21.13
+[2018.12.12-20.21.13:792][422]LogWorld: Bringing up level for play took: 0.002693
+[2018.12.12-20.21.13:805][422]LogScript: Warning: Accessed None trying to read property Number_1
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:0018
+[2018.12.12-20.21.13:805][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Number_1". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.21.13:805][422]LogScript: Warning: Accessed None
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:002D
+[2018.12.12-20.21.13:805][422]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.21.13:812][422]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,918
+[2018.12.12-20.21.13:813][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.21.13:903][424]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.21.16:199][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.21.16:278][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.21.16:333][628]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.21.16:374][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.21.16:374][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.21.16:458][629]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.12-20.23.18:341][785]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.23.18:513][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.23.18:533][785]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI1FEFCEBF4AE29FFFB4CA4B830E782508.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.23.19:211][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.23.19:232][854]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI529B20C14C092CC25E81119E7EC574D4.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.23.20:223][969]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.23.20:242][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.23.20:242][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.23.20:243][969]PIE: New page: PIE session: TestScene (12 dec. 2018 22:23:20)
+[2018.12.12-20.23.20:244][969]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.23.20:250][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006129s)
+[2018.12.12-20.23.20:251][969]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.23.20:251][969]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.12.12-20.23.20:251][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.007053s)
+[2018.12.12-20.23.20:340][969]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.23.20:363][969]LogInit: FAudioDevice initialized.
+[2018.12.12-20.23.20:367][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.23.20:438][969]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.23.20:438][969]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.23.20:441][969]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.23.20
+[2018.12.12-20.23.20:441][969]LogWorld: Bringing up level for play took: 0.002702
+[2018.12.12-20.23.20:453][969]LogScript: Warning: Accessed None trying to read property Number_1
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:005E
+[2018.12.12-20.23.20:454][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Number_1". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.23.20:454][969]LogScript: Warning: Accessed None
+	VualtUI_C /Game/Scenes/UEDPIE_0_TestScene.TestScene:PersistentLevel.VualtUI_2
+	Function /Game/UI/VualtUI.VualtUI_C:ExecuteUbergraph_VualtUI:0073
+[2018.12.12-20.23.20:454][969]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VualtUI Function:  Execute Ubergraph Vualt UI Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.23.20:461][969]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene -0,433
+[2018.12.12-20.23.20:461][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.23.20:566][971]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.23.22:778][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.23.22:856][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.23.22:929][168]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.23.22:966][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.23.22:966][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.23.23:045][169]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.12-20.23.28:509][808]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.23.28:513][808]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.24.36:564][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.24.36:583][747]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUI628A93E24028F3B870D63699790952A6.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.24.37:936][907]BlueprintLog: New page: Compile VualtUI
+[2018.12.12-20.24.38:578][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VualtUI" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset" SILENT=true
+[2018.12.12-20.24.38:596][956]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VualtUIFE23354C49AB9CE7845B6C81F784076C.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/VualtUI.uasset'
+[2018.12.12-20.25.17:861][495]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.25.18:043][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.25.18:063][495]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault915A944641888A48A2138BB91227452E.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.25.18:497][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.25.18:514][536]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultCD202A47454363C64B22BB8EB93C4B69.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.25.19:524][654]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.25.19:542][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.19:542][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.25.19:543][654]PIE: New page: PIE session: TestScene (12 dec. 2018 22:25:19)
+[2018.12.12-20.25.19:543][654]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.25.19:548][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005596s)
+[2018.12.12-20.25.19:549][654]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.25.19:549][654]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2018.12.12-20.25.19:549][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006480s)
+[2018.12.12-20.25.19:636][654]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.25.19:659][654]LogInit: FAudioDevice initialized.
+[2018.12.12-20.25.19:663][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.25.19:732][654]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.25.19:732][654]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.25.19:734][654]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.25.19
+[2018.12.12-20.25.19:735][654]LogWorld: Bringing up level for play took: 0.002294
+[2018.12.12-20.25.19:754][654]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,86
+[2018.12.12-20.25.19:754][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.19:756][654]LogScript: Warning: Accessed None trying to read property Number1Text
+	Vault_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Vault_C_0
+	Function /Game/UI/Vault.Vault_C:ExecuteUbergraph_Vault:0022
+[2018.12.12-20.25.19:756][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Number1Text". Blueprint:  Vault Function:  Execute Ubergraph Vault Graph:  EventGraph Node:  SetText (Text)
+[2018.12.12-20.25.19:869][656]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.25.22:631][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.22:712][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.25.22:759][899]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.25.22:794][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.25.22:794][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.22:874][900]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.12-20.25.35:975][447]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.25.36:151][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.25.36:168][447]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultAE897B4A4B7522A798EB3EACD024231A.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.25.36:614][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.25.36:631][490]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultFA43945D44C776B936C52DABBCF06C43.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.25.37:336][570]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.25.37:352][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.37:353][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.25.37:353][570]PIE: New page: PIE session: TestScene (12 dec. 2018 22:25:37)
+[2018.12.12-20.25.37:353][570]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.25.37:359][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005695s)
+[2018.12.12-20.25.37:359][570]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.25.37:360][570]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2018.12.12-20.25.37:360][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006577s)
+[2018.12.12-20.25.37:446][570]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.25.37:469][570]LogInit: FAudioDevice initialized.
+[2018.12.12-20.25.37:476][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.25.37:549][570]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.25.37:549][570]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.25.37:552][570]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.25.37
+[2018.12.12-20.25.37:552][570]LogWorld: Bringing up level for play took: 0.002478
+[2018.12.12-20.25.37:570][570]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,677
+[2018.12.12-20.25.37:571][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.37:629][572]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.25.39:230][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.39:307][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.25.39:367][716]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.25.39:403][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.25.39:403][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.25.39:456][717]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.12-20.26.54:925][281]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.26.54:925][281]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.12-20.26.55:518][281]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.593 s
+[2018.12.12-20.26.55:518][281]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: 
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: Stack: 
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: [Callstack] 0x00007ff8a4d681d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: [Callstack] 0x00007ff8a4d7809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: [Callstack] 0x00007ff8b2b6bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.12-20.26.55:519][281]LogOutputDevice: Error: [Callstack] 0x00007ff8a423769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8a41f0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8bd347c74 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8bd594393 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8bd3a2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8bd378a70 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8bd36b263 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8f4a6dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8f4a60de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.12-20.26.55:520][281]LogOutputDevice: Error: [Callstack] 0x00007ff8f4a701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff8f4a5ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff91edb6d41 USER32.dll!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff91edb6713 USER32.dll!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff8f4a71746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff769da5546 UE4Editor.exe!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff769db596c UE4Editor.exe!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff769db59ea UE4Editor.exe!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff769dc48da UE4Editor.exe!UnknownFunction []
+[2018.12.12-20.26.55:521][281]LogOutputDevice: Error: [Callstack] 0x00007ff769dc659a UE4Editor.exe!UnknownFunction []
+[2018.12.12-20.26.55:522][281]LogOutputDevice: Error: [Callstack] 0x00007ff91ecf3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.12-20.26.55:522][281]LogOutputDevice: Error: [Callstack] 0x00007ff91faa1471 ntdll.dll!UnknownFunction []
+[2018.12.12-20.26.55:522][281]LogOutputDevice: Error: 
+[2018.12.12-20.26.55:529][281]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.12-20.26.56:313][281]LogStats:                    SendNewReport -  0.785 s
+[2018.12.12-20.26.56:313][281]LogStats:             FDebug::EnsureFailed -  1.389 s
+[2018.12.12-20.26.56:313][281]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.26.57:299][376]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:780][545]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:780][545]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:782][545]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:784][545]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:787][545]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.26.58:792][546]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.27.35:353][759]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.27.35:710][759]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnF2A7504342521CBD6F8D5ABA14C2AAC1.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.27.36:258][806]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnF4DF1EF24F7370B4F02C08A1C37B6EA8.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.28.06:434][245]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.28.06:513][245]LogBlueprint: Error: [Compiler MotionControllerPawn] This blueprint (self) is not a Vault_C, therefore ' Target ' must have a connection.
+[2018.12.12-20.28.06:513][245]LogBlueprint: Error: [Compiler MotionControllerPawn] This blueprint (self) is not a Vault_C, therefore ' Target ' must have a connection.
+[2018.12.12-20.28.06:515][245]LogBlueprint: Error: [Compiler MotionControllerPawn] Variable node  Set Number1Text  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.12-20.28.06:515][245]LogBlueprint: Error: [Compiler MotionControllerPawn] Variable node  Set Number1Text  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.12-20.28.06:781][245]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnDAA857C84014400077E26EB5F09D9791.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.28.06:790][245]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3578,77] Compile of MotionControllerPawn failed. 4 Fatal Issue(s) 0 Warning(s) [in 355 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.12.12-20.28.07:321][289]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn48B5AE4C463A8282EE90278FBECA5486.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.28.25:665][394]LogEditorTransaction: Undo Create Pin Link
+[2018.12.12-20.28.26:085][437]LogEditorTransaction: Undo Create Pin Link
+[2018.12.12-20.28.26:840][525]LogEditorTransaction: Undo Move Nodes
+[2018.12.12-20.28.29:166][788]Cmd: TRANSACTION UNDO
+[2018.12.12-20.28.29:166][788]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.12-20.28.29:492][819]Cmd: TRANSACTION UNDO
+[2018.12.12-20.28.29:492][819]LogEditorTransaction: Undo Create Pin Link
+[2018.12.12-20.28.29:938][865]Cmd: TRANSACTION UNDO
+[2018.12.12-20.28.29:938][865]LogEditorTransaction: Undo Delete current selection
+[2018.12.12-20.28.30:299][905]Cmd: TRANSACTION UNDO
+[2018.12.12-20.28.30:299][905]LogEditorTransaction: Undo Change Text Pin Value
+[2018.12.12-20.28.30:699][945]Cmd: TRANSACTION UNDO
+[2018.12.12-20.28.30:699][945]LogEditorTransaction: Undo Create Pin Link
+[2018.12.12-20.29.42:007][ 39]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.29.42:371][ 39]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn3A61CCE541CBA834BF5B2BB5E92995F6.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.29.43:072][ 98]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn653428A94A99F7DB5F0CADB060D9E2CB.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.29.54:768][429]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.29.55:128][429]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnD6B4E0EC41663305105429BF7CE9BE25.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.29.55:702][470]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn377A9C584F5D5743A96E91BED22B8DFA.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.29.59:711][927]BlueprintLog: New page: Compile Vault
+[2018.12.12-20.29.59:892][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.29.59:908][927]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/VaultCF85E31B4AE1CC7181BA5B8F5A38BA41.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.30.00:431][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Vault" FILE="../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset" SILENT=true
+[2018.12.12-20.30.00:447][982]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/Vault296311C04847528CCCA605B169CD1269.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/UI/Vault.uasset'
+[2018.12.12-20.30.05:451][542]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.30.05:455][542]LogSlate: Window 'Message Log' being destroyed
+[2018.12.12-20.30.06:645][677]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.30.06:669][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.30.06:670][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.30.06:670][677]PIE: New page: PIE session: TestScene (12 dec. 2018 22:30:06)
+[2018.12.12-20.30.06:670][677]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.30.06:676][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005923s)
+[2018.12.12-20.30.06:676][677]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.30.06:677][677]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2018.12.12-20.30.06:677][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006773s)
+[2018.12.12-20.30.06:765][677]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.30.06:788][677]LogInit: FAudioDevice initialized.
+[2018.12.12-20.30.06:792][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.30.06:864][677]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.30.06:864][677]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.30.06:867][677]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.30.06
+[2018.12.12-20.30.06:867][677]LogWorld: Bringing up level for play took: 0.002322
+[2018.12.12-20.30.06:886][677]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene -0,007
+[2018.12.12-20.30.06:887][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.30.07:005][679]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.30.08:649][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.30.08:726][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.30.08:820][825]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.30.08:864][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.30.08:864][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.30.08:949][826]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.12-20.31.00:274][748]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.00:274][748]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.00:275][748]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.00:277][748]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.00:279][748]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:045][837]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:052][838]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:052][838]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:055][838]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:058][838]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:063][839]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:064][839]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:067][839]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:072][840]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:074][840]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:077][840]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:082][841]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:083][841]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:086][841]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:091][842]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:092][842]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:095][842]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:101][843]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:104][843]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:110][844]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:112][844]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:118][845]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:121][845]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:126][846]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:127][846]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:130][846]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:135][847]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:137][847]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.01:140][847]LogUObjectBase: Warning: Object is not registered
+[2018.12.12-20.31.35:527][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:527][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:528][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:529][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:530][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:533][835]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.35:538][836]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:148][905]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:148][905]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:149][905]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:151][905]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:154][905]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:159][906]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:161][906]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:164][906]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:169][907]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:171][907]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.36:174][907]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.37:775][ 94]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.37:775][ 94]LogUObjectArray: Warning: Other object in slot
+[2018.12.12-20.31.38:608][191]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.31.38:685][191]LogBlueprint: Error: [Compiler MotionControllerPawn] This blueprint (self) is not a Vault_C, therefore ' Target ' must have a connection.
+[2018.12.12-20.31.38:685][191]LogBlueprint: Error: [Compiler MotionControllerPawn] This blueprint (self) is not a Vault_C, therefore ' Target ' must have a connection.
+[2018.12.12-20.31.38:687][191]LogBlueprint: Error: [Compiler MotionControllerPawn] Variable node  Set Number1Text  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.12-20.31.38:688][191]LogBlueprint: Error: [Compiler MotionControllerPawn] Variable node  Set Number1Text  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.12-20.31.38:964][191]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawnEF40DFAD4D59DCD5B819AB9AA35E90C6.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.31.38:973][191]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3790,96] Compile of MotionControllerPawn failed. 4 Fatal Issue(s) 0 Warning(s) [in 364 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.12.12-20.31.57:620][361]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.12.12-20.31.57:968][361]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn684BDFEA439CE24C8119D1A211195305.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.31.59:021][468]LogSavePackage: Moving '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Saved/MotionControllerPawn4B6482B048FDAE8C1DA86BA05B30037A.tmp' to '../../../../../../Users/Floyd Lehman/Desktop/EscapeRoom/Project/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.12.12-20.32.00:730][658]LogTemp: Repeating last play command: VR Preview
+[2018.12.12-20.32.00:753][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.32.00:753][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-20.32.00:753][658]PIE: New page: PIE session: TestScene (12 dec. 2018 22:32:00)
+[2018.12.12-20.32.00:754][658]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestScene
+[2018.12.12-20.32.00:760][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005755s)
+[2018.12.12-20.32.00:760][658]LogAIModule: Creating AISystem for world TestScene
+[2018.12.12-20.32.00:760][658]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.12.12-20.32.00:760][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestScene.TestScene to /Game/Scenes/UEDPIE_0_TestScene.TestScene (0.006687s)
+[2018.12.12-20.32.00:851][658]LogInit: XAudio2 using 'Luidsprekers (SteelSeries Siberia 650)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.12-20.32.00:874][658]LogInit: FAudioDevice initialized.
+[2018.12.12-20.32.00:883][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.32.00:957][658]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.12-20.32.00:957][658]LogLoad: Game class is 'GameModeBase'
+[2018.12.12-20.32.00:960][658]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestScene.TestScene up for play (max tick rate 0) at 2018.12.12-21.32.00
+[2018.12.12-20.32.00:960][658]LogWorld: Bringing up level for play took: 0.002386
+[2018.12.12-20.32.00:979][658]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_TestScene 0,085
+[2018.12.12-20.32.00:979][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.32.01:078][660]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.12-20.32.02:939][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.32.03:016][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-20.32.03:112][826]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.12-20.32.03:153][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-20.32.03:153][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/TestScene.TestScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene' with GeneratedClass '/Game/Scenes/TestScene.TestScene_C' with ClassGeneratedBy '/Game/Scenes/TestScene.TestScene:PersistentLevel.TestScene'
+[2018.12.12-20.32.03:237][827]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.12-20.32.03:258][829]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:479 
+ with error E_OUTOFMEMORY, 
+ Size=4192x2328x1 Format=DXGI_FORMAT_B8G8R8A8_TYPELESS(0x0000005A), NumMips=1, Flags=D3D11_BIND_RENDER_TARGET D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     91 = 76242 KB (2D 4192x2328 PF_DepthStencil 4xMSAA) SelectionDepthStencil
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     35 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT UAV) LightAccumulation
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     88 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     90 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     71 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     19 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     60 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     41 = 76242 KB (2D 4192x2328 PF_FloatRGBA RT) TemporalAA
+[2018.12.12-20.32.10:581][829]LogConsoleResponse:     55 = 38121 KB (2D 4192x2328 PF_A2B10G10R10 RT) GBufferA
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     92 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT 4xMSAA) UnknownTexture2D
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     57 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT sRGB) GBufferC
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     70 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT VRam) LightAttenuation VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     56 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT VRam) Tonemap VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     59 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT) GBufferE
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     58 = 38121 KB (2D 4192x2328 PF_B8G8R8A8 RT) SelectionComposited
+[2018.12.12-20.32.10:582][829]LogConsoleResponse:     40 = 38121 KB (2D 4192x2328 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     43 = 38121 KB (2D 4192x2328 PF_FloatR11G11B10 RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     69 = 38121 KB (2D 4192x2328 PF_G16R16 RT) Velocity
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     30 = 19061 KB (2D 2096x1164 PF_DepthStencil) SmallDepthZ
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     36 = 19061 KB (2D 4192x1164 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     68 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     29 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     67 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     77 = 9531 KB (2D 2096x1164 PF_FloatRGB RT VRam) BloomSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:583][829]LogConsoleResponse:     72 = 9531 KB (2D 2096x1164 PF_FloatRGB RT VRam) SceneColorHalfRes VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     28 = 9531 KB (2D 4192x2328 PF_G8 RT UAV) ScreenSpaceAO
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     89 = 4096 KB (2D 1024x1024 PF_B8G8R8A8 RT sRGB) DebugCanvasLayerTexture
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     78 = 2383 KB (2D 1048x582 PF_FloatRGB RT VRam) BloomDownsample1 VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     51 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     47 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     79 = 596 KB (2D 524x291 PF_FloatRGB RT VRam) BloomDownsample2 VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     32 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:584][829]LogConsoleResponse:     31 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     34 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     20 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     26 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     18 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     39 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     17 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     16 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     15 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2018.12.12-20.32.10:585][829]LogConsoleResponse:     73 = 153 KB (2D 16x1221 PF_FloatRGBA RT UAV VRam) Histogram VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     80 = 150 KB (2D 262x146 PF_FloatRGB RT VRam) BloomBlurY VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     33 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     37 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     87 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     86 = 75 KB (2D 131x146 PF_FloatRGB RT) BloomBlurX
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:      6 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     50 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     49 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2018.12.12-20.32.10:586][829]LogConsoleResponse:     81 = 38 KB (2D 131x73 PF_FloatRGB RT VRam) BloomDownsample4 VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     85 = 38 KB (2D 132x73 PF_FloatRGB RT) BloomBlurY
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     38 = 32 KB (2D 64x64 PF_A16B16G16R16) SSProfiles
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     13 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     84 = 19 KB (2D 66x73 PF_FloatRGB RT) BloomBlurX
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     12 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     14 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     10 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     82 = 10 KB (2D 66x37 PF_FloatRGB RT VRam) BloomBlurY VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:587][829]LogConsoleResponse:     11 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:     83 = 5 KB (2D 33x37 PF_FloatRGB RT) BloomBlurX
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:     74 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce VRamInKB(Start/Size):<NONE>
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      2 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      1 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2018.12.12-20.32.10:588][829]LogConsoleResponse:     46 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     44 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     75 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     76 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     42 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     45 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:      9 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     48 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     21 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     22 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2018.12.12-20.32.10:589][829]LogConsoleResponse:     24 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     61 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume3
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     63 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume4
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     65 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolume5
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     27 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     23 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     25 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     62 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir3
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     64 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir4
+[2018.12.12-20.32.10:590][829]LogConsoleResponse:     66 = 1 KB (3D 4x4x4 PF_FloatRGBA RT UAV) TranslucentVolumeDir5
+[2018.12.12-20.32.10:591][829]LogConsoleResponse: 
+[2018.12.12-20.32.10:593][829]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: 
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: Ensure condition failed: AllocationLevelInKB == OutWholePoolInKB [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\PostProcess\RenderTargetPool.cpp] [Line: 685]
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: 
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: Stack: 
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3960776 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3952551 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3a59771 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:593][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a11f04a0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a11eaa8b UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a119ae4e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a11d6d94 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8dd836ad5 UE4Editor-RHI.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3773af1 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a395746f UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3960b37 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a395e5d7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:594][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a37da591 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a39951d1 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3991c83 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a37d6c4f UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a359232a UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3aa4a72 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8a3a72182 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8bd8b1798 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff8bd8b1c56 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.12-20.32.10:595][829]LogOutputDevice: Error: [Callstack] 0x00007ff9012d9af9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: [Callstack] 0x00007ff9012daa74 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: [Callstack] 0x00007ff8bdd0c500 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: [Callstack] 0x00007ff8bdcfcac1 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: [Callstack] 0x00007ff91ecf3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: [Callstack] 0x00007ff91faa1471 ntdll.dll!UnknownFunction []
+[2018.12.12-20.32.10:596][829]LogOutputDevice: Error: 
+[2018.12.12-20.32.10:596][829]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.12-20.32.11:357][829]LogStats:                    SendNewReport -  0.763 s
+[2018.12.12-20.32.11:357][829]LogStats:             FDebug::EnsureFailed -  0.774 s
+[2018.12.12-20.32.11:357][829]LogConsoleResponse: Pool: 486/1082 MB (referenced/allocated)
+[2018.12.12-20.32.11:357][829]Cmd: rhi.DumpMemory
+[2018.12.12-20.32.11:361][829]RHI resource memory (not tracked by our allocator)
+[2018.12.12-20.32.11:361][829]        39976896  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]          399360  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]         1146512  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]           16648  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]       121082276  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]        35716980  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:361][829]      2304198560  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:362][829]       459238164  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:362][829]         6199282  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2018.12.12-20.32.11:362][829]2830.481MB total
+[2018.12.12-20.32.11:362][829]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.12.12-20.32.11:362][829]Cmd: Mem FromReport
+[2018.12.12-20.32.11:362][829]LogMemory: Platform Memory Stats for Windows
+[2018.12.12-20.32.11:362][829]LogMemory: Process Physical Memory: 1773.88 MB used, 2144.43 MB peak
+[2018.12.12-20.32.11:362][829]LogMemory: Process Virtual Memory: 6444.68 MB used, 6513.31 MB peak
+[2018.12.12-20.32.11:362][829]LogMemory: Physical Memory: 8542.59 MB used,  7796.57 MB free, 16339.15 MB total
+[2018.12.12-20.32.11:362][829]LogMemory: Virtual Memory: 11805.27 MB used,  134205920.00 MB free, 134217728.00 MB total
+[2018.12.12-20.32.11:363][829]LogMemory: 
+[2018.12.12-20.32.11:363][829]Allocator Stats for TBB: (not implemented)
+[2018.12.12-20.32.11:363][829]LogMemory: Memory Stats:
+[2018.12.12-20.32.11:363][829]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2018.12.12-20.32.11:370][829]Log file closed, 12/12/18 21:32:11
