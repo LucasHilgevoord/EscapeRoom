@@ -5547,3 +5547,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.13-10.43.31:925][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Safe_Cube_004)
 [2018.12.13-10.43.41:922][118]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.308 sec). This should never happen. Something is wrong with the timer delegate!
 [2018.12.13-10.43.42:073][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.44.33:380][655]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoom_Auto8F1759DCF4425A7102113749AD6F486F0.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/LucasAssetRoom_Auto8.umap'
+[2018.12.13-10.44.33:383][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/LucasAssetRoom' took 0.559
+[2018.12.13-10.44.33:383][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.559
+[2018.12.13-10.52.57:912][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow)
+[2018.12.13-10.53.15:831][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keycard)
+[2018.12.13-10.54.31:948][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_Cube_4)
+[2018.12.13-10.55.18:302][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.12.13-10.55.18:974][584]Cmd: EDIT COPY
+[2018.12.13-10.55.19:251][595]Cmd: EDIT PASTE
+[2018.12.13-10.55.20:472][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.55.26:518][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.55.32:706][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.55.36:125][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.55.38:461][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.12.13-10.55.39:309][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.12.13-10.55.43:026][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.12.13-10.55.49:201][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.12.13-10.56.03:854][356]LogEditorViewport: Clicking on Actor (LMB): Moveable_Clockframe_C (Moveable_Clockframe)
+[2018.12.13-10.56.08:330][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_Cube_16)
+[2018.12.13-10.56.10:034][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.56.14:233][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_Cube_17)
+[2018.12.13-10.56.15:071][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.56.15:760][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_Cube_18)
+[2018.12.13-10.56.16:629][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.56.17:851][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_Cube_19)
+[2018.12.13-10.56.19:032][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.56.29:721][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.56.42:757][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.57.03:225][377]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.12.13-10.57.03:286][377]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.13-10.57.03:286][377]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.12.13-10.57.03:343][377]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.13-10.57.03:360][377]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.13-10.57.03:387][377]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.13-10.57.03:388][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.13-10.57.03:388][377]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.13-10.57.03:423][377]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.13-10.57.03:440][377]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.13-10.57.03:470][377]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.13-10.57.03:485][377]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.13-10.57.03:503][377]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.13-10.57.03:797][377]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.12.13-10.57.03:816][377]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.12.13-10.57.03:938][377]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.12.13-10.57.03:938][377]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.12.13-10.57.03:998][377]LogMaterial: Display: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.12.13-10.57.04:056][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:073][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:090][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:124][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:157][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:175][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:198][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:213][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:259][377]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.12.13-10.57.04:278][377]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.12.13-10.57.04:319][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:335][377]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.13-10.57.04:371][377]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.13-10.57.04:388][377]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.13-10.57.04:556][377]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.12.13-10.57.04:886][378]LogShaderCompilers: Display: Shaders left to compile 339
+[2018.12.13-10.57.06:034][420]LogShaderCompilers: Display: Shaders left to compile 329
+[2018.12.13-10.57.07:446][495]LogShaderCompilers: Display: Shaders left to compile 319
+[2018.12.13-10.57.07:893][512]LogShaderCompilers: Display: Shaders left to compile 309
+[2018.12.13-10.57.08:705][540]LogShaderCompilers: Display: Shaders left to compile 299
+[2018.12.13-10.57.10:122][595]LogShaderCompilers: Display: Shaders left to compile 289
+[2018.12.13-10.57.11:502][646]LogShaderCompilers: Display: Shaders left to compile 279
+[2018.12.13-10.57.12:127][669]LogShaderCompilers: Display: Shaders left to compile 269
+[2018.12.13-10.57.12:784][694]LogShaderCompilers: Display: Shaders left to compile 259
+[2018.12.13-10.57.12:938][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_4)
+[2018.12.13-10.57.13:156][702]LogShaderCompilers: Display: Shaders left to compile 249
+[2018.12.13-10.57.15:315][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.57.15:646][796]LogShaderCompilers: Display: Shaders left to compile 239
+[2018.12.13-10.57.16:719][836]LogShaderCompilers: Display: Shaders left to compile 229
+[2018.12.13-10.57.16:933][844]LogShaderCompilers: Display: Shaders left to compile 219
+[2018.12.13-10.57.17:455][864]LogShaderCompilers: Display: Shaders left to compile 209
+[2018.12.13-10.57.20:078][962]LogShaderCompilers: Display: Shaders left to compile 199
+[2018.12.13-10.57.20:366][963]LogShaderCompilers: Display: Shaders left to compile 189
+[2018.12.13-10.57.20:407][965]LogShaderCompilers: Display: Shaders left to compile 179
+[2018.12.13-10.57.21:135][993]LogShaderCompilers: Display: Shaders left to compile 169
+[2018.12.13-10.57.24:401][113]LogShaderCompilers: Display: Shaders left to compile 159
+[2018.12.13-10.57.24:598][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.57.25:290][147]LogShaderCompilers: Display: Shaders left to compile 149
+[2018.12.13-10.57.25:410][152]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.12.13-10.57.25:909][170]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.12.13-10.57.26:448][190]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Table_4)
+[2018.12.13-10.57.26:508][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-10.57.28:960][281]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.12.13-10.57.29:779][312]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.12.13-10.57.30:209][328]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.12.13-10.57.30:414][336]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.12.13-10.57.33:533][454]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.13-10.57.34:808][502]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.13-10.57.34:833][503]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.13-10.57.35:100][512]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.13-10.57.37:252][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_4)
+[2018.12.13-10.57.37:759][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Couch)
+[2018.12.13-10.57.38:348][619]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.13-10.57.39:130][648]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.13-10.57.39:308][654]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.13-10.57.40:034][682]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.13-10.57.52:230][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fuse)
+[2018.12.13-10.57.54:124][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.57.54:360][233]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Temp/Fuse.Fuse
+[2018.12.13-10.58.12:211][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.58.18:659][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.58.35:470][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.13-10.58.37:243][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.59.10:151][675]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoom_Auto9071C827C49A3807A1915ABAE978B58C0.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/LucasAssetRoom_Auto9.umap'
+[2018.12.13-10.59.10:154][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/LucasAssetRoom' took 0.282
+[2018.12.13-10.59.10:154][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2018.12.13-11.06.42:608][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-11.09.10:318][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/LucasAssetRoom' took 0.028
