@@ -1312,3 +1312,12 @@ Make sure 'MotionControllerPawn_C' has been compiled for  Set input_number
 [2018.12.13-10.20.11:782][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.12.13-10.20.17:760][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_2)
 [2018.12.13-10.22.15:132][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-10.30.12:038][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.12.13-10.30.13:180][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Carpet)
+[2018.12.13-10.30.13:952][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.13-10.31.24:724][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.13-10.31.25:551][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.13-10.32.40:716][626]Cmd: POLY SELECT ADJACENT WALLS
+[2018.12.13-10.35.07:047][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.12.13-10.35.10:346][573]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2018.12.13-10.35.10:566][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
