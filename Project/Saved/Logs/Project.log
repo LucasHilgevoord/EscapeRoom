@@ -5632,3 +5632,32 @@ Make sure 'MotionControllerPawn_C' has been compiled for  Set input_number
 [2018.12.17-08.52.36:745][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.12.17-08.52.45:182][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_1)
 [2018.12.17-08.53.03:488][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp)
+[2018.12.17-09.01.52:630][334]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoom_Auto41B9D9B2B408775A8A3B7BB9332612719.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/LucasAssetRoom_Auto4.umap'
+[2018.12.17-09.01.52:640][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/LucasAssetRoom' took 0.835
+[2018.12.17-09.01.52:640][334]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.835
+[2018.12.17-09.01.52:646][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Materials/M_SplineArcMat] ([1] browsable assets)...
+[2018.12.17-09.01.52:688][334]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VirtualReality/Materials/M_SplineArcMat.M_SplineArcMat]
+[2018.12.17-09.01.52:688][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Materials/M_SplineArcMat]
+[2018.12.17-09.01.52:777][334]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/M_SplineArcMat_Auto4C972AA08401A9733FA80279D96360A04.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/VirtualReality/Materials/M_SplineArcMat_Auto4.uasset'
+[2018.12.17-09.01.52:783][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/Materials/M_smoke_subUV] ([1] browsable assets)...
+[2018.12.17-09.01.52:822][334]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV]
+[2018.12.17-09.01.52:822][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/Materials/M_smoke_subUV]
+[2018.12.17-09.01.52:897][334]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/M_smoke_subUV_Auto4400EA49640DD2C82C4546A8797DC5822.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_smoke_subUV_Auto4.uasset'
+[2018.12.17-09.01.52:900][334]LogFileHelpers: Auto-saving content packages took 0.255
+[2018.12.17-09.13.27:543][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator2)
+[2018.12.17-09.13.29:390][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator2)
+[2018.12.17-09.13.29:895][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator)
+[2018.12.17-09.13.34:321][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-09.13.39:909][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.17-09.14.05:550][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-09.14.06:354][ 66]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoom_Auto5F636A947463D21AB5E43E3833A9FBE24.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/Autosaves/Game/Scenes/LucasAssetRoom_Auto5.umap'
+[2018.12.17-09.14.06:363][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/LucasAssetRoom' took 0.773
+[2018.12.17-09.14.06:363][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.773
+[2018.12.17-09.17.42:521][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator4)
+[2018.12.17-09.17.47:701][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator)
+[2018.12.17-09.17.50:123][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radiator3)
+[2018.12.17-09.17.54:822][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-09.17.59:623][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/LucasAssetRoom" FILE="C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Content/Scenes/LucasAssetRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.17-09.18.00:476][284]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoomB2225B134398015C21F83BA20D644766.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Content/Scenes/LucasAssetRoom.umap'
+[2018.12.17-09.18.00:514][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/LucasAssetRoom_BuiltData" FILE="C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Content/Scenes/LucasAssetRoom_BuiltData.uasset" SILENT=true
+[2018.12.17-09.18.11:632][284]LogSavePackage: Moving 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Saved/LucasAssetRoom_BuiltDataBEBA4E2C41A7391C2703AEB49698A202.tmp' to 'C:/Users/lucas/Documents/GitHub/EscapeRoom/Project/Content/Scenes/LucasAssetRoom_BuiltData.uasset'
