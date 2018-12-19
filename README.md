@@ -35,19 +35,19 @@ Er waren verschillende Engines en talen die gebruikt konden worden voor deze opd
   	- Plus punten:
 		- HTC Vive VR ondersteuning aanwezig.
 
-Uiteindelijk hebben wij gekozen voor de Unreal Engine. We hebben deze keuzen gemaakt omdat het een engine is die veel word gebruikt door kleine maar ook grote bedrijven. Er word gebruik gemaakt van C++ en blueprints, ook is de belichting een stuk makkelijker te gebruiken. Doordat het een engine is die veel word gebruikt door professionele game developers, hebben wij dus voor deze engine gekozen zodat we er meer kennis in kunnen krijgen.<br>
+Uiteindelijk hebben wij gekozen voor de Unreal Engine. We hebben deze keuzen gemaakt omdat het een engine is die veel word gebruikt door kleine maar ook grote bedrijven. Er word gebruik gemaakt van C++ en blueprints, ook is de belichting een stuk makkelijker te gebruiken. Doordat het een engine is die veel wordt gebruikt door professionele game developers, hebben wij dus voor deze engine gekozen zodat we er meer kennis in kunnen krijgen.<br>
 Het concept werd in een 3D wereld gebruikt waardoor de engine Processing niet de beste optie was om het project in te maken. De keuze om Unity te gebruiken is het ook niet geworden aangezien we hier al ervaring in hadden en we wilde graag nieuwe dingen leren.
  
 
 ## Leerdoelen 
-- Het kunnen omgaan met VR in Unity.
+- Het kunnen omgaan met VR in Unreal.
 - Puzzels creëren in een VR wereld.
 - VR interactie toepassen
 - Een nieuwe engine ontdekken en leren.
 
 ## Planning 
-Jerry Sam:        https://goo.gl/vMH9xs<br
-Floyd Lehman:     https://goo.gl/GyHZgS<br
+Jerry Sam:        https://goo.gl/vMH9xs<br>
+Floyd Lehman:     https://goo.gl/GyHZgS<br>
 Mees Dekker:      https://goo.gl/dVFqdb<br>
 Troy Toendang:    https://goo.gl/aXuMHu<br>
 Lucas Hilgevoord: https://goo.gl/iKVc24<br>
