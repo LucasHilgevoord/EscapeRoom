@@ -3,7 +3,7 @@
 Het concept van dit project is gebaseerd op de wel bekende Escape Rooms. Het doen van een escape room is om binnen een bepaalde tijd of voor zolang de speler nodig heeft, de puzzels in de kamers op te lossen. Dit concept wilden wij graag zelf creëren maar dan met gebruik van de VR technologie.
 
 ## Features
-- [Download](#)
+- [Download]()
 - [Scrum bord](https://trello.com/b/iGUaK3D1/escape-room)
 - [Google Drive](https://drive.google.com/drive/folders/1w6mgLQfdEXGyFdfsNvgBH8BgY62dEuIK?usp=sharing)
 
