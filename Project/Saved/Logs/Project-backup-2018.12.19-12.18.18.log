@@ -1,0 +1,966 @@
+﻿Log file open, 12/19/18 11:31:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.322097
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.109s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.029s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.19-10.31.54:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.19-10.31.54:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:196][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:201][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-10.31.54:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-10.31.54:202][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-10.31.54:202][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-10.31.54:202][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.19-10.31.54:268][  0]LogHAL: Display: Platform has ~ 8 GB [8429789184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.19-10.31.54:268][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.19-10.31.54:268][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.19-10.31.54:268][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.19-10.31.54:269][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.19-10.31.54:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.12.19-10.31.54:269][  0]LogInit: Computer: DESKTOP-8AMLK8E
+[2018.12.19-10.31.54:269][  0]LogInit: User: FloydLehman
+[2018.12.19-10.31.54:269][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.19-10.31.54:269][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2018.12.19-10.31.54:270][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.19-10.31.54:270][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.19-10.31.54:270][  0]LogMemory: Process Physical Memory: 101.90 MB used, 101.90 MB peak
+[2018.12.19-10.31.54:270][  0]LogMemory: Process Virtual Memory: 91.59 MB used, 91.59 MB peak
+[2018.12.19-10.31.54:270][  0]LogMemory: Physical Memory: 6771.91 MB used,  1267.37 MB free, 8039.27 MB total
+[2018.12.19-10.31.54:270][  0]LogMemory: Virtual Memory: 4652.70 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2018.12.19-10.31.54:695][  0]LogInit: Using OS detected language (nl-NL).
+[2018.12.19-10.31.54:695][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.19-10.31.54:696][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.12.19-10.31.55:132][  0]LogStreaming: Display: Took  0.438s to InitEngineTextLocalization.
+[2018.12.19-10.31.55:132][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.19-10.31.55:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.19-10.31.55:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.19-10.31.55:707][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2018.12.19-10.31.55:707][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.19-10.31.55:786][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.12.19-10.31.55:786][  0]LogD3D11RHI:       2987/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.19-10.31.55:806][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.19-10.31.55:806][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.19-10.31.55:809][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.19-10.31.55:809][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.19-10.31.55:809][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.19-10.31.55:842][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.19-10.31.55:842][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.19-10.31.55:842][  0]LogWindows: EnumDisplayDevices:
+[2018.12.19-10.31.55:842][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.19-10.31.55:842][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.19-10.31.55:843][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.19-10.31.55:843][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.19-10.31.55:843][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.19-10.31.55:844][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.19-10.31.55:844][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.19-10.31.55:844][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.19-10.31.55:844][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.12.19-10.31.55:844][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2018.12.19-10.31.55:844][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2018.12.19-10.31.55:844][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2018.12.19-10.31.55:900][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.19-10.31.55:918][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.19-10.31.56:370][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.19-10.31.56:384][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.19-10.31.56:398][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.19-10.31.56:412][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.19-10.31.56:429][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.19-10.31.56:444][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.19-10.31.56:461][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.19-10.31.56:475][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.19-10.31.56:483][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:570][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:570][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:570][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:570][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-10.31.56:571][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.19-10.31.56:640][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.19-10.31.56:640][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.19-10.31.56:668][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.19-10.31.56:668][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.19-10.31.56:682][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.19-10.31.56:697][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.19-10.31.56:713][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.19-10.31.56:728][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.19-10.31.56:776][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.19-10.31.56:776][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.19-10.31.56:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.19-10.31.56:860][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (D:/EscapeRoom/Project/Intermediate/Shaders/WorkingDirectory/19632/).
+[2018.12.19-10.31.56:860][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Floyd Lehman/AppData/Local/Temp/UnrealShaderWorkingDir/7F784486435E99E84D5A6C84A2F87CA9/'.
+[2018.12.19-10.31.56:864][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.19-10.31.56:864][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.19-10.31.56:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.19-10.31.57:518][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/EscapeRoom/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/EscapeRoom/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.19-10.31.57:594][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.19-10.31.57:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.19-10.31.57:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.19-10.31.57:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.19-10.31.57:623][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.19-10.31.57:623][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.19-10.31.57:623][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.19-10.31.57:652][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.19-10.31.57:654][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.19-10.31.57:655][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.19-10.31.57:770][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2018.12.19-10.31.58:171][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-10.31.58:338][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.19-10.31.58:342][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.19-10.31.58:343][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.19-10.31.58:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.19-10.31.58:343][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.19-10.31.58:365][  0]LogNetVersion: Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1228489884)
+[2018.12.19-10.31.59:027][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.073881 seconds
+[2018.12.19-10.31.59:035][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.19-10.31.59:036][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.19-10.31.59:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.19-10.32.00:248][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.19-10.32.00:263][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.19-10.32.01:223][  0]SourceControl: Source control is disabled
+[2018.12.19-10.32.01:223][  0]SourceControl: Source control is disabled
+[2018.12.19-10.32.01:225][  0]SourceControl: Source control is disabled
+[2018.12.19-10.32.01:227][  0]SourceControl: Source control is disabled
+[2018.12.19-10.32.01:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.19-10.32.01:554][  0]LogOcInput: OculusInput pre-init called
+[2018.12.19-10.32.01:702][  0]LogEngine: Initializing Engine...
+[2018.12.19-10.32.05:564][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-21847282
+[2018.12.19-10.32.05:565][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.19-10.32.05:565][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.19-10.32.05:565][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.19-10.32.05:565][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.19-10.32.05:841][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.19-10.32.05:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.19-10.32.05:973][  0]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.32.06:098][  0]LogInit: FAudioDevice initialized.
+[2018.12.19-10.32.06:098][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.19-10.32.06:190][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Floyd Lehman/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.19-10.32.06:206][  0]LogInit: Texture streaming: Enabled
+[2018.12.19-10.32.06:234][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.19-10.32.06:252][  0]LogInit: Transaction tracking system initialized
+[2018.12.19-10.32.06:284][  0]BlueprintLog: New page: Editor Load
+[2018.12.19-10.32.06:388][  0]LocalizationService: Localization service is disabled
+[2018.12.19-10.32.07:075][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/' took 0.02s
+[2018.12.19-10.32.07:075][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.19-10.32.07:075][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.19-10.32.07:076][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.19-10.32.07:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.19-10.32.07:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.19-10.32.07:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.19-10.32.07:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.19-10.32.07:232][  0]SourceControl: Source control is disabled
+[2018.12.19-10.32.07:232][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-10.32.07:233][  0]LightingResults: New page: Lighting Build
+[2018.12.19-10.32.07:236][  0]MapCheck: New page: Map Check
+[2018.12.19-10.32.07:236][  0]LightingResults: New page: Lighting Build
+[2018.12.19-10.32.07:416][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.19-10.32.07:425][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-10.32.07:450][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-10.32.07:450][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2018.12.19-10.32.07:450][  0]LogFileHelpers: Loading map 'Template_Default' took 0.218
+[2018.12.19-10.32.07:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.32.07:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.32.07:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.32.07:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.32.07:672][  0]LogCollectionManager: Loaded 0 collections in 0.003193 seconds
+[2018.12.19-10.32.07:739][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Saved/Collections/' took 0.01s
+[2018.12.19-10.32.07:739][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/Developers/FloydLehman/Collections/' took 0.01s
+[2018.12.19-10.32.07:739][  0]LogFileCache: Scanning file cache for directory 'D:/EscapeRoom/Project/Content/Collections/' took 0.01s
+[2018.12.19-10.32.07:739][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.19-10.32.07:754][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2651 classes and 620 folders.
+[2018.12.19-10.32.07:774][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.19-10.32.07:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.07:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-10.32.08:370][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.19-10.32.08:387][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.19-10.32.08:602][  0]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-10.32.08:606][  0]LogSlate: Took 0.000562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.19-10.32.08:626][  0]LogSlate: Took 0.008293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.19-10.32.08:825][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2018.12.19-10.32.09:096][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.19-10.32.09:096][  0]LogLoad: (Engine Initialization) Total time: 17.73 seconds
+[2018.12.19-10.32.09:096][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.19-10.32.09:114][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-10.32.09:199][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.19-10.32.09:258][  1]LogAssetRegistry: Asset discovery search completed in 11.5109 seconds
+[2018.12.19-10.32.09:262][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.19-10.32.09:262][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.12.19-10.32.13:267][238]LogSlate: Took 0.011084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.19-10.32.16:553][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.32.16:757][431]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.19-10.32.22:728][431]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.32.22:764][431]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/FinalScene.FinalScene
+[2018.12.19-10.32.22:799][431]Cmd: MAP LOAD FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-10.32.22:800][431]LightingResults: New page: Lighting Build
+[2018.12.19-10.32.22:800][431]LoadErrors: New page: Loading map: FinalScene.umap
+[2018.12.19-10.32.22:801][431]MapCheck: New page: Map Check
+[2018.12.19-10.32.22:801][431]LightingResults: New page: Lighting Build
+[2018.12.19-10.32.23:071][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-10.32.23:129][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-10.32.23:129][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2018.12.19-10.32.23:129][431]LogFileHelpers: Loading map 'FinalScene' took 0.332
+[2018.12.19-10.32.38:413][340]LogEditorViewport: Clicking on Actor (LMB): Safe_Door_Bp_C (Safe_Door_Bp)
+[2018.12.19-10.32.47:064][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.32.55:710][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.32.57:233][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.32.57:235][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.32.57:236][454]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:32:57)
+[2018.12.19-10.32.57:254][454]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.32.57:272][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017693s)
+[2018.12.19-10.32.57:272][454]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.32.57:273][454]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.12.19-10.32.57:273][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.019331s)
+[2018.12.19-10.32.57:325][454]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.32.57:439][454]LogInit: FAudioDevice initialized.
+[2018.12.19-10.32.57:447][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.32.57:449][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.32.57:612][454]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.32.57:636][454]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.32.57
+[2018.12.19-10.32.57:646][454]LogWorld: Bringing up level for play took: 0.025198
+[2018.12.19-10.32.57:683][454]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2018.12.19-10.32.57:744][454]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene -0.294
+[2018.12.19-10.32.57:744][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.32.57:829][455]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 26 NumSamples 1 (Frame:1).
+[2018.12.19-10.32.57:883][456]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.34.30:686][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.34.30:769][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.34.30:812][519]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.34.30:897][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.34.30:899][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.34.30:989][520]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.19-10.34.33:553][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.34.33:652][679]LogTemp: Repeating last play command: VR Preview
+[2018.12.19-10.34.33:669][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.34.33:669][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.34.33:669][679]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:34:33)
+[2018.12.19-10.34.33:669][679]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.34.33:683][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014153s)
+[2018.12.19-10.34.33:684][679]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.34.33:684][679]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.12.19-10.34.33:684][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.015006s)
+[2018.12.19-10.34.33:731][679]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.34.33:842][679]LogInit: FAudioDevice initialized.
+[2018.12.19-10.34.33:849][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.34.33:941][679]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.34.33:952][679]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.34.33
+[2018.12.19-10.34.33:955][679]LogWorld: Bringing up level for play took: 0.013670
+[2018.12.19-10.34.33:977][679]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene -0.061
+[2018.12.19-10.34.33:980][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.34.34:060][681]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.35.02:077][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.35.02:151][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.35.02:189][ 97]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.35.02:328][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.35.02:329][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.35.02:398][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.19-10.35.18:423][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.35.19:540][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.35.19:545][ 96]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene
+[2018.12.19-10.35.20:330][ 96]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2018.12.19-10.35.21:236][ 96]PIE: Warning: Constraint in '/Engine/Transient.World_16:PersistentLevel.Locker_Door_Left_Bp_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.21:236][ 96]PIE: Warning: Constraint in '/Engine/Transient.World_16:PersistentLevel.Locker_Door_Left_Bp_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.21:249][ 96]LogSlate: Took 0.006256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.19-10.35.21:382][ 97]PIE: Warning: Constraint in '/Engine/Transient.World_17:PersistentLevel.Locker_Door_Right_Bp_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.21:382][ 97]PIE: Warning: Constraint in '/Engine/Transient.World_17:PersistentLevel.Locker_Door_Right_Bp_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.21:401][ 97]LogSlate: Took 0.009848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.19-10.35.21:439][ 98]PIE: Warning: Constraint in '/Engine/Transient.World_18:PersistentLevel.Moveable_Clockframe_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.22:162][108]PIE: Warning: Constraint in '/Engine/Transient.World_26:PersistentLevel.Safe_Door_Bp_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.22:162][108]PIE: Warning: Constraint in '/Engine/Transient.World_26:PersistentLevel.Safe_Door_Bp_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.22:162][108]PIE: Warning: Constraint in '/Engine/Transient.World_26:PersistentLevel.Safe_Door_Bp_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.35.31:129][587]BlueprintLog: New page: Compile FinalScene
+[2018.12.19-10.35.32:170][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.35.32:682][626]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalSceneC2597BF14B406A3E98247882AE70E1EE.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.35.32:738][626]LogFileHelpers: Saving map 'FinalScene' took 0.571
+[2018.12.19-10.35.34:648][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.35.43:733][221]BlueprintLog: New page: Compile FinalScene
+[2018.12.19-10.35.44:606][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.35.44:916][255]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalSceneEA4A580B4AD082F1939A07A4B6A866F3.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.35.44:945][255]LogFileHelpers: Saving map 'FinalScene' took 0.339
+[2018.12.19-10.35.48:332][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.35.48:470][454]LogTemp: Repeating last play command: VR Preview
+[2018.12.19-10.35.48:495][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.35.48:495][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.35.48:495][454]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:35:48)
+[2018.12.19-10.35.48:495][454]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.35.48:511][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015833s)
+[2018.12.19-10.35.48:513][454]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.35.48:514][454]LogPlayLevel: PIE: World Init took: (0.002541s)
+[2018.12.19-10.35.48:514][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.018547s)
+[2018.12.19-10.35.48:567][454]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.35.48:677][454]LogInit: FAudioDevice initialized.
+[2018.12.19-10.35.48:682][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.35.48:817][454]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.35.48:822][454]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.35.48
+[2018.12.19-10.35.48:823][454]LogWorld: Bringing up level for play took: 0.004876
+[2018.12.19-10.35.48:866][454]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.828
+[2018.12.19-10.35.48:866][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.35.49:008][456]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.36.24:788][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.24:865][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.36.25:056][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.36.25:092][609]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.36.25:139][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.36.25:139][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.25:248][610]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.19-10.36.30:573][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.36.34:052][ 84]BlueprintLog: New page: Compile FinalScene
+[2018.12.19-10.36.34:790][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.36.35:107][108]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene853E13F4439B41568EF657A38F897587.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.36.35:138][108]LogFileHelpers: Saving map 'FinalScene' took 0.349
+[2018.12.19-10.36.35:652][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.36.35:760][140]LogTemp: Repeating last play command: VR Preview
+[2018.12.19-10.36.35:777][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.35:777][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.36.35:777][140]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:36:35)
+[2018.12.19-10.36.35:777][140]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.36.35:792][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014141s)
+[2018.12.19-10.36.35:792][140]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.36.35:792][140]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.12.19-10.36.35:793][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.015082s)
+[2018.12.19-10.36.35:846][140]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.36.35:958][140]LogInit: FAudioDevice initialized.
+[2018.12.19-10.36.35:964][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.36.36:119][140]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.36.36:125][140]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.36.36
+[2018.12.19-10.36.36:126][140]LogWorld: Bringing up level for play took: 0.005848
+[2018.12.19-10.36.36:151][140]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.113
+[2018.12.19-10.36.36:151][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.36:262][142]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.36.58:343][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.58:423][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.36.58:651][ 96]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.36.58:696][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.36.58:696][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.36.58:802][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.19-10.37.09:744][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.37.09:930][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.37.10:286][690]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalSceneB385221B4B31FCF35323A796095E915F.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.37.10:313][690]LogFileHelpers: Saving map 'FinalScene' took 0.384
+[2018.12.19-10.37.10:651][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.37.10:746][711]LogSlate: Window 'FinalScene - Level Blueprint Editor' being destroyed
+[2018.12.19-10.37.10:750][711]LogSlate: Window 'FinalScene - Level Blueprint Editor' being destroyed
+[2018.12.19-10.37.21:191][332]LogEditorViewport: Clicking on Actor (LMB): Attach_TriggerBox_Blueprint_C (FuseBox_Trigger)
+[2018.12.19-10.37.33:777][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.37.42:773][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.37.58:949][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.38.00:490][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.38.00:810][644]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene6024A6D54FB004EA4381F89573CA4968.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.38.00:841][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene_BuiltData" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset" SILENT=true
+[2018.12.19-10.38.05:146][644]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene_BuiltData45724D71459F8178D9157EB6080CDD5E.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset'
+[2018.12.19-10.38.14:444][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.38.14:560][199]LogTemp: Repeating last play command: VR Preview
+[2018.12.19-10.38.14:574][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.14:574][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.38.14:574][199]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:38:14)
+[2018.12.19-10.38.14:574][199]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.38.14:599][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024399s)
+[2018.12.19-10.38.14:600][199]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.38.14:601][199]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2018.12.19-10.38.14:601][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.026137s)
+[2018.12.19-10.38.14:656][199]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.38.14:771][199]LogInit: FAudioDevice initialized.
+[2018.12.19-10.38.14:778][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.38.14:864][199]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.38.14:869][199]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.38.14
+[2018.12.19-10.38.14:872][199]LogWorld: Bringing up level for play took: 0.006254
+[2018.12.19-10.38.14:903][199]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.865
+[2018.12.19-10.38.14:904][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.14:981][201]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.38.29:167][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.29:245][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.38.29:281][448]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.38.29:414][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.38.29:414][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.29:490][449]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.19-10.38.31:145][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.38.35:088][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.38.35:210][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.38.35:522][787]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene420A9D7D496A22D7DD4C9E9BF3F89721.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.38.35:551][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene_BuiltData" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset" SILENT=true
+[2018.12.19-10.38.37:984][787]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene_BuiltDataB195F87F44ABBEFC851CB983421A6DB9.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset'
+[2018.12.19-10.38.38:602][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.38.38:703][829]LogTemp: Repeating last play command: VR Preview
+[2018.12.19-10.38.38:718][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.38:718][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.38.38:718][829]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:38:38)
+[2018.12.19-10.38.38:718][829]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.38.38:732][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013534s)
+[2018.12.19-10.38.38:732][829]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.38.38:733][829]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.12.19-10.38.38:733][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.014410s)
+[2018.12.19-10.38.38:784][829]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.38.38:897][829]LogInit: FAudioDevice initialized.
+[2018.12.19-10.38.38:902][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.38.39:022][829]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.38.39:028][829]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 0) at 2018.12.19-11.38.39
+[2018.12.19-10.38.39:029][829]LogWorld: Bringing up level for play took: 0.005796
+[2018.12.19-10.38.39:053][829]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 1.015
+[2018.12.19-10.38.39:054][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.39:142][831]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2018.12.19-10.38.59:453][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.59:542][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.38.59:576][614]LogSlate: Window 'Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.19-10.38.59:707][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.38.59:708][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.38.59:781][615]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.19-10.40.10:567][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Handle)
+[2018.12.19-10.40.21:035][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.40.39:485][567]LogSlate: Window 'Select Path' being destroyed
+[2018.12.19-10.40.39:564][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.40.39:568][567]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FuseHandle_Blueprint.FuseHandle_Blueprint
+[2018.12.19-10.40.48:672][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.40.54:554][301]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FuseBox)
+[2018.12.19-10.40.54:644][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.40.55:713][360]LogEditorViewport: Clicking on Actor (LMB): FuseHandle_Blueprint_C (FuseHandle_Blueprint)
+[2018.12.19-10.41.10:381][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.41.56:725][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.42.18:107][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.42.19:833][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.42.19:899][493]BlueprintLog: New page: Compile FuseHandle_Blueprint
+[2018.12.19-10.42.24:384][708]BlueprintLog: New page: Compile FuseHandle_Blueprint
+[2018.12.19-10.42.56:651][163]BlueprintLog: New page: Compile FuseHandle_Blueprint
+[2018.12.19-10.43.00:783][335]LogSlate: Window 'FuseHandle_Blueprint*' being destroyed
+[2018.12.19-10.43.00:795][335]LogSlate: Window 'FuseHandle_Blueprint*' being destroyed
+[2018.12.19-10.43.02:964][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.43.07:571][511]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.19-10.43.07:583][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.43.12:063][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.43.23:176][255]LogActorFactory: Actor Factory created Handle
+[2018.12.19-10.43.24:451][331]LogActorFactory: Actor Factory created Handle
+[2018.12.19-10.43.28:618][577]Cmd: DELETE
+[2018.12.19-10.43.28:618][577]Cmd: ACTOR DELETE
+[2018.12.19-10.43.28:663][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.19-10.43.28:693][577]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.12.19-10.43.29:768][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.43.44:751][806]LogSlate: Window 'Create Blueprint' being destroyed
+[2018.12.19-10.43.44:790][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FuseHandle_BP.FuseHandle_BP
+[2018.12.19-10.43.48:664][975]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.43.49:713][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FuseHandle_BP" FILE="D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset" SILENT=true
+[2018.12.19-10.43.49:739][ 10]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FuseHandle_BP87AC173F4F4D95347F9E5AA3DCE01B92.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset'
+[2018.12.19-10.43.50:529][ 50]LogSlate: Window 'FuseHandle_BP' being destroyed
+[2018.12.19-10.43.50:540][ 50]LogSlate: Window 'FuseHandle_BP' being destroyed
+[2018.12.19-10.44.06:453][984]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FuseHandle_BP_2.StaticMesh' 
+[2018.12.19-10.44.06:454][984]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FuseHandle_BP_2.StaticMesh' 
+[2018.12.19-10.44.10:029][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.44.45:705][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.45.33:541][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fuse3)
+[2018.12.19-10.45.36:158][262]LogEditorViewport: Clicking on Actor (LMB): FuseHandle_BP_C (FuseHandle_BP)
+[2018.12.19-10.45.39:177][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.45.54:459][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.19-10.46.33:486][673]LogEditorViewport: Clicking on Actor (LMB): FuseHandle_BP_C (FuseHandle_BP)
+[2018.12.19-10.46.35:646][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.46.36:472][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.46.36:476][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FuseHandle_BP.FuseHandle_BP
+[2018.12.19-10.46.42:375][128]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.46.46:113][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.47.06:382][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.47.32:498][482]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.47.32:689][482]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_2.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.47.32:689][482]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_2.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.47.33:436][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FuseHandle_BP" FILE="D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset" SILENT=true
+[2018.12.19-10.47.33:488][510]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FuseHandle_BP96B91C7D4161184F2A02FDB1E82229CA.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset'
+[2018.12.19-10.47.37:340][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.47.40:912][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.47.43:963][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.47.59:367][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.48.04:189][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.48.09:982][345]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.48.10:208][345]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_3.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.48.10:208][345]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_3.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.48.10:907][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FuseHandle_BP" FILE="D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset" SILENT=true
+[2018.12.19-10.48.10:937][369]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FuseHandle_BPC3B00E714013654685AEE1A42FEB9132.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset'
+[2018.12.19-10.48.13:688][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.48.15:123][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.48.16:386][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.48.16:386][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.48.16:387][655]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:48:16)
+[2018.12.19-10.48.16:387][655]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.48.16:412][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024359s)
+[2018.12.19-10.48.16:412][655]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.48.16:413][655]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.12.19-10.48.16:413][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.025317s)
+[2018.12.19-10.48.16:468][655]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.48.16:583][655]LogInit: FAudioDevice initialized.
+[2018.12.19-10.48.16:583][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.48.16:616][655]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.48.16:622][655]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 60) at 2018.12.19-11.48.16
+[2018.12.19-10.48.16:622][655]LogWorld: Bringing up level for play took: 0.005497
+[2018.12.19-10.48.16:643][655]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.606
+[2018.12.19-10.48.16:644][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.48.19:780][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.48.19:780][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.48.19:886][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.48.19:886][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.48.19:923][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.48.19:943][843]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.12.19-10.48.29:510][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-10.48.31:120][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.48.55:697][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.49.11:269][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.49.11:365][440]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.49.11:556][440]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_4.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.49.11:556][440]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_4.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.49.12:130][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FuseHandle_BP" FILE="D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset" SILENT=true
+[2018.12.19-10.49.12:153][464]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FuseHandle_BPCBA0D189462DBEC479509EB8F2B22FD5.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset'
+[2018.12.19-10.49.14:252][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.49.15:789][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.49.15:887][661]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-10.49.15:907][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.15:907][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.49.15:907][661]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:49:15)
+[2018.12.19-10.49.15:907][661]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.49.15:921][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013766s)
+[2018.12.19-10.49.15:922][661]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.49.15:922][661]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.12.19-10.49.15:922][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.015196s)
+[2018.12.19-10.49.15:979][661]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.49.16:148][661]LogInit: FAudioDevice initialized.
+[2018.12.19-10.49.16:179][661]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.49.16:184][661]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 60) at 2018.12.19-11.49.16
+[2018.12.19-10.49.16:184][661]LogWorld: Bringing up level for play took: 0.004031
+[2018.12.19-10.49.16:201][661]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.163
+[2018.12.19-10.49.16:201][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.18:214][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.18:214][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.18:252][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.49.18:253][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.18:292][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.18:312][781]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.12.19-10.49.22:397][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-10.49.22:410][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.22:410][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.49.22:411][ 24]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:49:22)
+[2018.12.19-10.49.22:411][ 24]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.49.22:426][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014616s)
+[2018.12.19-10.49.22:426][ 24]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.49.22:427][ 24]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.12.19-10.49.22:427][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.015846s)
+[2018.12.19-10.49.22:479][ 24]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.49.22:612][ 24]LogInit: FAudioDevice initialized.
+[2018.12.19-10.49.22:646][ 24]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.49.22:651][ 24]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 60) at 2018.12.19-11.49.22
+[2018.12.19-10.49.22:652][ 24]LogWorld: Bringing up level for play took: 0.004690
+[2018.12.19-10.49.22:668][ 24]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.631
+[2018.12.19-10.49.22:668][ 24]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.24:992][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.24:993][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.25:033][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.49.25:033][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.25:076][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.25:093][163]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.12.19-10.49.26:528][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-10.49.26:545][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.26:545][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-10.49.26:546][249]PIE: New page: PIE session: FinalScene (19 Dec 2018 12:49:26)
+[2018.12.19-10.49.26:546][249]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_FinalScene
+[2018.12.19-10.49.26:561][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014812s)
+[2018.12.19-10.49.26:561][249]LogAIModule: Creating AISystem for world FinalScene
+[2018.12.19-10.49.26:561][249]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.12.19-10.49.26:561][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/FinalScene.FinalScene to /Game/Scenes/UEDPIE_0_FinalScene.FinalScene (0.015601s)
+[2018.12.19-10.49.26:610][249]LogInit: XAudio2 using 'Luidsprekers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.19-10.49.26:721][249]LogInit: FAudioDevice initialized.
+[2018.12.19-10.49.26:753][249]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-10.49.26:758][249]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_FinalScene.FinalScene up for play (max tick rate 60) at 2018.12.19-11.49.26
+[2018.12.19-10.49.26:759][249]LogWorld: Bringing up level for play took: 0.004566
+[2018.12.19-10.49.26:775][249]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_FinalScene 0.738
+[2018.12.19-10.49.26:775][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.28:695][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.28:695][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.28:732][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-10.49.28:732][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/FinalScene.FinalScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene' with GeneratedClass '/Game/Scenes/FinalScene.FinalScene_C' with ClassGeneratedBy '/Game/Scenes/FinalScene.FinalScene:PersistentLevel.FinalScene'
+[2018.12.19-10.49.28:770][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-10.49.28:806][365]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.12.19-10.49.32:789][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-10.55.13:683][431]BlueprintLog: New page: Compile FuseHandle_BP
+[2018.12.19-10.55.13:878][431]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_5.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.55.13:879][431]PIE: Warning: Constraint in '/Engine/Transient.World_33:PersistentLevel.FuseHandle_BP_C_5.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2018.12.19-10.55.15:262][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FuseHandle_BP" FILE="D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset" SILENT=true
+[2018.12.19-10.55.15:293][508]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FuseHandle_BP713FFD2845AC816A84C0339F21A8B37A.tmp' to 'D:/EscapeRoom/Project/Content/Blueprints/FuseHandle_BP.uasset'
+[2018.12.19-10.55.37:037][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-10.55.37:375][773]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene7C81D74F4FBE82698288F4AAACBB1C79.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene.umap'
+[2018.12.19-10.55.37:409][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/FinalScene_BuiltData" FILE="D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset" SILENT=true
+[2018.12.19-10.55.40:677][773]LogSavePackage: Moving 'D:/EscapeRoom/Project/Saved/FinalScene_BuiltData5A082150471A2F0639395E887FB7E517.tmp' to 'D:/EscapeRoom/Project/Content/Scenes/FinalScene_BuiltData.uasset'
